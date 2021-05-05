@@ -1,9 +1,11 @@
 # Cowboy Untamed
-An Android app to lift the speed limit of your Cowboy Bike.
+An Android app to lift the speed limit of your Cowboy bike and make other tweaks to make the bike even better.
 
 ## LEGAL NOTICE
-!!! USE THIS APPLICATION AT YOUR OWN RISK !!!
-!!!     I do not accept any liability     !!!
+#### !!! USE THIS APPLICATION AT YOUR OWN RISK
+#### !!! I do not accept any liability.
+#### !!! Unlocking your bike will make your bike illegal in most countries, atleast in the European Union.
+#### !!! It might void your warranty
 
 ## Introduction
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
