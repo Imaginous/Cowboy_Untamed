@@ -7,6 +7,10 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! Unlocking your bike will make your bike illegal in most countries, atleast in the European Union.
 #### !!! It might void your warranty
 
+## Download
+Latest version: [Cowboy Untamed V2.02]()
+
+
 ## Introduction
 
 <img src="https://user-images.githubusercontent.com/68418842/117127423-59524780-ad9c-11eb-967d-f75f9e499da2.png" alt="Screenshot" width="250"/>
