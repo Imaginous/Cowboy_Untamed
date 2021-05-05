@@ -56,5 +56,5 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 
 ## FAQ
 
-- Will there be an IOS version?<br>No, unfortunately I do not have (and have no intention to) an Apple developers account.
+- Will there be an IOS version?<br>No, unfortunately I do not have (and have no intention to) an Apple developers account.<br>But you can do it manually, see: [IOS.md](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).
 - Can the settings be undone?<br>Yes, if you have not tinkered with this app (or other apps like Bronco) you can write down your settings and re-apply them later. Using the defaults button can be tricky if Cowboy changes their default settings. Until now they didn't so you should be safe.
