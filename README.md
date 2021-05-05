@@ -26,7 +26,7 @@ I recommend a field weakening value of 15%. More then 20% would be inefficient a
 
 ##### Make sure the original Cowboy app has been closed completely (and apps like Bronco)
 
-- No devices may be connected via bleutooth to your bike.
+- No devices may be connected via bluetooth to your bike.
 - Make sure you only have one bluetooth profile called "Cowboy" and that this is the correct bike.<br>Multiple bikes are not (yet) supported.
 - Make sure you are close to your bike.
 - Open the Cowboy untamed app.
