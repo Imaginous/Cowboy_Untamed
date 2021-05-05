@@ -15,16 +15,16 @@ For more information on the nRF Connect app go to [here](https://devzone.nordics
 So use the nRF Connect app. It seems you have to connect to the Cowboy and then disable“Parse known characteristics". Now you can select "BYTE ARRAY" when sending. I assume this will solve the problem of the values not written correctly on some devices.
 Connect to your Cowboy and make sure it's connected and bonded. Go to Nordic UART Service Send values to RX Characteristic.
 
-- Disable speed limit: 0110000b000102000166eb
+- Disable speed limit: `0110000b000102000166eb`
 <br>or<br>
-Enable speed limit (default): 0110000b000102000226ea
+Enable speed limit (default): `0110000b000102000226ea`
 
-- Field weakening 20%: 0110008100010203f8a4
+- Field weakening 20%: `0110008100010203f8a4`
 <br>or<br>
-Field weakening 15%: 011000810001020266390b
+Field weakening 15%: `011000810001020266390b`
 <br>or<br>
-Field weakening 0% (default): 011000810001020000b841
-- Store in flash: 011001ff0001027fffc2ef
-- Close flash: 011001ff0001020000a29f
+Field weakening 0% (default): `011000810001020000b841`
+- Store in flash: `011001ff0001027fffc2ef`
+- Close flash: `011001ff0001020000a29f`
 
 If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
