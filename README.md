@@ -45,7 +45,7 @@ I recommend a field weakening value of 15%. More then 20% would be inefficient a
 Use the same method as above, but entering the values you have written down on first use.
 Alternative method using my hardcoded defaults, unlock following the above mentioned procedure.
 - Connect to the bike.
-- Press the "DEFSULTS" button to fill in the default settings.
+- Press the "DEFAULTS" button to fill in the default settings.
 - Press the "TEST" button to send them to the bike.
 - Press the "FLASH" button to store them in the flash memory of the motor controller.
 - Disconnect from the bike.
