@@ -8,6 +8,9 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! It might void your warranty
 
 ## Introduction
+
+<img src="https://user-images.githubusercontent.com/68418842/117127423-59524780-ad9c-11eb-967d-f75f9e499da2.png" alt="Screenshot" width="250"/>
+
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
 
 This is where I started finding out how the Cowboy bikes work. which electronics they use and how they communicate internally and with the outside world.
