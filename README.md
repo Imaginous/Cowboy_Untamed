@@ -17,8 +17,8 @@ Latest version: [Cowboy Untamed V2.02](https://github.com/Imaginous/Cowboy_Untam
 
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
 
-This is where I started finding out how the Cowboy bikes work. which electronics they use and how they communicate internally and with the outside world.
-I posted on Reddit and it got more attention then I had anticipated.
+This is where I started finding out how the Cowboy bikes work. Which electronics they use and how the electronics communicate internally and with the outside world.
+I posted on [Reddit](https://www.reddit.com/r/cowboybikes/comments/m6zrdx/disable_speed_limit/) and it got more attention then I had anticipated.
 
 Special thanks go to Runereader for making his Bronco code open source.
 This is my first Android app, pure hobby, so it is "as is".
