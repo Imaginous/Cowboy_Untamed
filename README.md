@@ -40,9 +40,8 @@ A drawback of field weakening is the fact that it costs extra current, so your b
 
 I recommend a field weakening value of 15%. More then 20% would be inefficient and might cause damage to the motor. ASI advices a maximum of 25%, therefore the app is limited to 25%.
 
-##### Make sure the original Cowboy app has been closed completely (and apps like Bronco)
-
-- No devices may be connected via bluetooth to your bike.
+- **Make sure the original Cowboy app has been closed completely (and apps like Bronco).**
+- No other devices may be connected via bluetooth to your bike.
 - Make sure you only have one bluetooth profile called "Cowboy" and that this is the correct bike.<br>Multiple bikes are not (yet) supported.
 - Make sure you are close to your bike.
 - Open the Cowboy untamed app.
