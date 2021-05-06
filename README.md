@@ -23,6 +23,15 @@ I posted on Reddit and it got more attention then I had anticipated.
 Special thanks go to Runereader for making his Bronco code open source.
 This is my first Android app, pure hobby, so it is "as is".
 
+## Installation
+You must allow installation from unknown sources to install the Cowboy Untamed APK file.
+
+- Goto `Settings` on your Android phone.
+- Goto `Security`.
+- Check the `Unknown Sources` option.
+
+Now you should be able to download and install the APK file.
+
 ## Usage
 This app can disable the speed limit of your Cowboy V1/2/3 bike.
 When you only disable the speed limit you will be able to get up to 29km/h. At this point the motor magnetic field flux will start working against you.
