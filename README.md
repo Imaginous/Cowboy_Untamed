@@ -8,7 +8,7 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! It might void your warranty
 
 ## Download
-Latest version: [Cowboy Untamed](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)
+Latest version: [Cowboy Untamed V2.50](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.50/cowboyuntamed_v2.50.apk)
 
 
 ## Introduction
@@ -34,6 +34,7 @@ Now you should be able to download and install the APK file.
 
 ## Usage
 This app can disable the speed limit of your Cowboy V1/2/3 bike.
+For V1+ owners, you can now enable the 'Auto Unlock' function normally only available on V2 and V3 bikes.
 When you only disable the speed limit you will be able to get up to 29km/h. At this point the motor magnetic field flux will start working against you.
 You can overcome this effect by using field weakening.
 A drawback of field weakening is the fact that it costs extra current, so your battery will be depleted faster.
