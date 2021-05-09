@@ -8,7 +8,7 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! It might void your warranty
 
 ## Download
-Latest version: [Cowboy Untamed V2.50](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.50cowboyuntamed_v2.50pk)
+Latest version: [Cowboy Untamed](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)
 
 
 ## Introduction
