@@ -11,6 +11,8 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 Direct download: [Cowboy Untamed V2.50](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.50/cowboyuntamed_v2.50.apk)<br>
 Version information: [Latest version](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)
 
+## Free accessories on your new bike
+If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 of free accessories on your new bike.
 
 ## Introduction
 
@@ -71,6 +73,8 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 If you like the app you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=EkJA4Zm7Qpq1eDSKdddMeQ).
 
+## The future
+I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.
 
 ## FAQ
 
