@@ -19,13 +19,18 @@ If you like the app you're free to make a small donation.<br>You can do this sec
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=EkJA4Zm7Qpq1eDSKdddMeQ).
 
 ## Introduction
-
-<img src="https://user-images.githubusercontent.com/68418842/117127423-59524780-ad9c-11eb-967d-f75f9e499da2.png" alt="Screenshot" width="250"/>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/68418842/119372390-8cab3680-bcb7-11eb-8d2c-c685640cb8ac.png" alt="Screenshot" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/119372491-a9e00500-bcb7-11eb-87df-e4dcc1d19b9b.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/119372515-b2384000-bcb7-11eb-9b1a-633b93c2d93e.png" width="250"/>
+</p>
 
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
 
 This is where I started finding out how the Cowboy bikes work. Which electronics they use and how the electronics communicate internally and with the outside world.
 I posted on [Reddit](https://www.reddit.com/r/cowboybikes/comments/m6zrdx/disable_speed_limit/) and it got more attention then I had anticipated.
+
+So use this app to remove the speed limit and enjoy your Cowboy even more!
 
 Special thanks go to Runereader for making his Bronco code open source.
 This is my first Android app, pure hobby, so it is "as is".
@@ -83,3 +88,4 @@ I think there is a quite solid base now for the future. Offcourse removing the s
 - Can the settings be undone?<br>Yes, if you have not tinkered with this app (or other apps like Bronco) you can write down your settings and re-apply them later. Using the defaults button can be tricky if Cowboy changes their default settings. Until now they didn't so you should be safe.
 - I want to make a donation, how?<br>[Donate via PayPal](https://paypal.me/pools/c/8zcWXI7VnO)<br>If you have a Dutch bank account, [Donate via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=EkJA4Zm7Qpq1eDSKdddMeQ).
 - Can I use another Android phone to make the settings?<br>Yes, you can use a different Android phone to make the settings and then switch back to your original phone. This can also be an iPhone. Also auto unlock should work with a V1+ and an iPhone.
+- Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume the use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.
