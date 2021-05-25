@@ -27,6 +27,13 @@ If you have a Dutch bank account you may also make your [donation via iDeal](htt
 
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
 
+*Main Features:*
+- Disable speed limit of your Cowboy bike.
+- Set field weakening to increase the maximum speed.
+- Enable *Auto Unlock* on the V1+ model.
+- Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in automation apps like *Tasker*.
+- *Set and forget*, just make the settings you want and start using the original Cowboy app again.
+
 This is where I started finding out how the Cowboy bikes work. Which electronics they use and how the electronics communicate internally and with the outside world.
 I posted on [Reddit](https://www.reddit.com/r/cowboybikes/comments/m6zrdx/disable_speed_limit/) and it got more attention then I had anticipated.
 
