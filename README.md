@@ -19,6 +19,13 @@ If you like the app you're free to make a small donation.<br>You can do this sec
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=EkJA4Zm7Qpq1eDSKdddMeQ).
 
 ## Introduction
+*Main Features:*
+- Disable speed limit of your Cowboy bike.
+- Set field weakening to increase the maximum speed.
+- Enable *Auto Unlock* on the V1+ model.
+- Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in automation apps like *Tasker*.
+- *Set and forget*, just make the settings you want and start using the original Cowboy app again.
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/68418842/119372390-8cab3680-bcb7-11eb-8d2c-c685640cb8ac.png" alt="Screenshot" width="250"/>
 <img src="https://user-images.githubusercontent.com/68418842/119372491-a9e00500-bcb7-11eb-87df-e4dcc1d19b9b.png" width="250"/>
@@ -26,13 +33,6 @@ If you have a Dutch bank account you may also make your [donation via iDeal](htt
 </p>
 
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
-
-*Main Features:*
-- Disable speed limit of your Cowboy bike.
-- Set field weakening to increase the maximum speed.
-- Enable *Auto Unlock* on the V1+ model.
-- Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in automation apps like *Tasker*.
-- *Set and forget*, just make the settings you want and start using the original Cowboy app again.
 
 This is where I started finding out how the Cowboy bikes work. Which electronics they use and how the electronics communicate internally and with the outside world.
 I posted on [Reddit](https://www.reddit.com/r/cowboybikes/comments/m6zrdx/disable_speed_limit/) and it got more attention then I had anticipated.
@@ -87,7 +87,7 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 - Disconnect from the bike.
 
 ## The future
-I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.
+I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>Due to bad weather I can't do much testing. I hope we will get some nice weather soon.
 
 ## FAQ
 
