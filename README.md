@@ -49,7 +49,8 @@ You must allow installation from unknown sources to install the Cowboy Untamed A
 - Goto `Security`.
 - Check the `Unknown Sources` option.
 
-Now you should be able to download and install the APK file.
+Now you should be able to download and install the APK file.<br><br>
+**Note:** Since some users buy a second hand Android phone just to use this app, make sure you have Android version 7.1.1 or higher.
 
 ## Usage
 This app can disable the speed limit of your Cowboy V1/2/3 bike.
