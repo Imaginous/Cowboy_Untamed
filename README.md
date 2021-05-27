@@ -9,7 +9,7 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 
 ## Download
 Direct download: [Cowboy Untamed V2.75](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.75/cowboyuntamed_v2.75.apk)<br>
-Version information: [Latest version](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)
+Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
 ## Free accessories on your new bike
 If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 of free accessories on your new bike.
