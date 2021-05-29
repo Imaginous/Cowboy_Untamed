@@ -50,6 +50,7 @@ You must allow installation from unknown sources to install the Cowboy Untamed A
 - Check the `Unknown Sources` option.
 
 Now you should be able to download and install the APK file.<br><br>
+For security reasons I recommend to disable this option after installing.<br><br>
 **Note:** Since some users buy a second hand Android phone just to use this app, make sure you have Android version 7.1.1 or higher.
 
 ## Usage
@@ -95,6 +96,7 @@ I think there is a quite solid base now for the future. Offcourse removing the s
 
 ## FAQ
 
+- When I download the file, nothing happens?<br>The file has been downloaded in the background. Go to the upper right menu in *Chrome* and select *Downloads*. Now select the file and install it.<br>You can also use a tool like *CX File Explorer* to goto your downloads and install it.
 - Will there be an IOS version?<br>No, unfortunately I do not have (and have no intention to) an Apple developers account.<br>But you can do it manually, see: [IOS.md](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).
 - Why should I enter 15% or 18% for the field weakening values?<br>These are merely my advise. The lower you keep the percentage the better it is for your battery range. At the moment I'm using 18% on my V1+ bike. It feels speedy enough, going faster makes my legs go round like a mad man. It's fun for a while, but not for a longer stretch. So 18% is my sweet spot. I assume on a V3 bike 15% is a more likely figure because of the lower gear ratio compared to the V1 and V2.
 - Can the settings be undone?<br>Yes, if you have not tinkered with this app (or other apps like Bronco) you can write down your settings and re-apply them later. Using the defaults button can be tricky if Cowboy changes their default settings. Until now they didn't so you should be safe.
