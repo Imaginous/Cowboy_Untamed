@@ -23,7 +23,7 @@ If you have a Dutch bank account you may also make your [donation via iDeal](htt
 - Disable speed limit of your Cowboy bike.
 - Set field weakening to increase the maximum speed.
 - Enable *Auto Unlock* on the V1+ model.
-- Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in automation apps like *Tasker*.
+- Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
 
 <p float="left">
