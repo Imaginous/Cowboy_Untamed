@@ -93,9 +93,16 @@ A bug on the V1+ is a non working headlight, the taillight still works.<br>Can i
 
 ## The future
 I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>
-**2021-29-05**: Finally some nice weather. I did some testing this morning. At his point I made the following discoveries:
+**2021-05-29**: Finally some nice weather. I did some testing this morning. At his point I made the following discoveries:
 - Adjusting various gain settings did not give me the hoped response. I can't feel a real difference when I suppress the torque and peddle gains. This might need further investigation. Since I think it would be the best option to a natural feel in cycling.
 - The other thing, which is working as expected, is setting the 8 power levels. For certain speed ranges you can set the maximum power output as a percentage. Default Cowboy uses 100% for all 8 levels. I tried adjusting them and it works flawlessly. You can set the power output in 8 stages. So you can still have 100% power to get up to 6km/h. Then you can set it to 25% for 6-20 km/h. You have to work a lot harder, but will preserve battery and it's a more fair game between you and a non electrified biker ;) Then you can set it to 75% from 20 km/h and up for example.<br>The major drawback of this system is you might need more power when going uphill... you won't get it untill you drop below a certain speed.<br>Therefore a gain based reduction would be better, but I'm not getting any usefull results with that.
+
+**2021-06-03**: i did some more research and testing. I found a second setting which is interesting. I can adjust the maximum voltage range of the torque sensor. By raising this you have to peddle harder (get less assistance). 
+This setting can be handy to put in a bit more effort yourself and spare battery power. 
+
+
+I hope to get a prerelease version with presets realeased in about 2 weeks. 
+
 
 ## FAQ
 
