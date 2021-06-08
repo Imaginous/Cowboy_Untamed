@@ -97,13 +97,16 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 - Disconnect from the bike.
 
 #### Quick Launch Presets
-With this new feature (and second app icon) you can setup 3 presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. just long press the *Cowboy Untamed Presets* app icon and select one of three presets. Selecting the app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be resest after locking your bike.
-
-**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.
-
-As stated earlier I started made some discoveries how to make the bike peddle a little bit harder. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. The *Peddle Max Torque* increases the overall force needed to power your Coboy. 100% is default, lower values will make you sweat more.
-
-*Text under construction*
+With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br><br>
+**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
+To configure the *Quick Launch Presets* go to the corresponding menu in the main app.<br><br>
+As stated earlier I made some discoveries how to make the bike peddle a little bit heavier. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. By decreasing the *Peddle Max Torque* percentage the overall force needed to power your Coboy will be increased. 100% is default, lower values will make you sweat more.<br><br>
+To get more precise control over the motor power the motor controller has 8 registers to set the maximum power output at certain speeds. These speeds are determined by the set maximum speed.<br>This is why you need to be connected to your bike when configuring. This will get the set maximum speed and calculates the corresponding speed ranges. These will be noted underneath each speed level.<br>
+You can now set the maximum power as a percentage, 100% is default, 0% is no assist at all at the given speed range.<br>
+With this system you can still get up to speed with 100% power, but when reaching 10km/h you can lower the output so you have to peddle harder. This makes it more natural when cycling along a non e-biker.<br><br>
+Off course you can also set *field weakening*. When left empty the bike operates in its default mode (torque with speed limit). Entering 0-20% will disable the speed limit and set *field weakening*.<br><br>
+At this point in time I can't give any advise on the "best" values. Just determine them with trail and error.<br><br>
+**Note**: empty fields are not send to the bike. The default values stored in the motor controller are used. As stated before don't use the *FLASH* button in the main app when your bike was unlocked using a preset. First lock your bike then start the main app to do alterations. 
 
 
 ##### V1+ Headlight bug
