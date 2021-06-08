@@ -8,6 +8,7 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! It might void your warranty
 
 ## Download
+Direct download: [Cowboy Untamed V3.00 (pre-release)](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.00/cowboyuntamed_v3.00.apk)<br>
 Direct download: [Cowboy Untamed V2.76](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.76/cowboyuntamed_v2.76.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
@@ -26,10 +27,18 @@ If you have a Dutch bank account you may also make your [donation via iDeal](htt
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
 
+*Quick Launch Presets in V3.00:*
+- Quickly start your bike with one of three prefered settings without saving them to flash memory.
+- Lower the default peddle to motor torque conversion. Lowering the assistance, making you work harder.
+- Lower the maximum power output for given speed ranges. You can lower the power output for 10-20km/h so it's more easy to cycle along a non e-bike rider. But still have the punch to get going.
+
+
 <p float="left">
-<img src="https://user-images.githubusercontent.com/68418842/119372390-8cab3680-bcb7-11eb-8d2c-c685640cb8ac.png" alt="Screenshot" width="250"/>
-<img src="https://user-images.githubusercontent.com/68418842/119372491-a9e00500-bcb7-11eb-87df-e4dcc1d19b9b.png" width="250"/>
-<img src="https://user-images.githubusercontent.com/68418842/119372515-b2384000-bcb7-11eb-9b1a-633b93c2d93e.png" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/119372390-8cab3680-bcb7-11eb-8d2c-c685640cb8ac.png" alt="Screenshot main app" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/119372491-a9e00500-bcb7-11eb-87df-e4dcc1d19b9b.png" alt="Screenshot expert page" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/121254562-b1ec9700-c8aa-11eb-9aaa-fff43845ab1b.png" alt="Screenshot quick launch presets" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/119372515-b2384000-bcb7-11eb-9b1a-633b93c2d93e.png" alt="Screenshot shortcuts main app" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/121254592-badd6880-c8aa-11eb-86db-a6b5ab1bea7f.png" alt="Screenshot shortcuts presets app" width="250"/>
 </p>
 
 This app is created as a hobby project. I love electronics and programming and just could not resist if I could get more out of my Cowboy V1+ bike.
@@ -87,6 +96,16 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 - Press the "FLASH" button to store them in the flash memory of the motor controller.
 - Disconnect from the bike.
 
+#### Quick Launch Presets
+With this new feature (and second app icon) you can setup 3 presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. just long press the *Cowboy Untamed Presets* app icon and select one of three presets. Selecting the app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be resest after locking your bike.
+
+**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.
+
+As stated earlier I started made some discoveries how to make the bike peddle a little bit harder. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. The *Peddle Max Torque* increases the overall force needed to power your Coboy. 100% is default, lower values will make you sweat more.
+
+*Text under construction*
+
+
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
 
@@ -100,8 +119,7 @@ I think there is a quite solid base now for the future. Offcourse removing the s
 **2021-06-03**: i did some more research and testing. I found a second setting which is interesting. I can adjust the maximum voltage range of the torque sensor. By raising this you have to peddle harder (get less assistance). 
 This setting can be handy to put in a bit more effort yourself and spare battery power. 
 
-
-I hope to get a prerelease version with presets realeased in about 2 weeks. 
+**2021-06-08**: A pre-release version of the *Quick launch Presets*.<br>Working on the text how to use it.
 
 
 ## FAQ
