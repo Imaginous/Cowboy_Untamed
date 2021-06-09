@@ -122,7 +122,9 @@ I think there is a quite solid base now for the future. Offcourse removing the s
 **2021-06-03**: i did some more research and testing. I found a second setting which is interesting. I can adjust the maximum voltage range of the torque sensor. By raising this you have to peddle harder (get less assistance). 
 This setting can be handy to put in a bit more effort yourself and spare battery power. 
 
-**2021-06-08**: A pre-release version of the *Quick launch Presets*.<br>Working on the text how to use it.
+**2021-06-08**: A pre-release version of the *Quick launch Presets*.<br><br>The following whishes have popped up from users:
+- *Walk* mode. A function where the bike propells its self at low speed. This can be handy when the belt has snapped. Technically it's possible via a hardware switch... now I have to figure out if it can be done by software only. It must be via an official function of the motor controller, because I don't want to do dirty hacks which can lead to failure or injuries.
+- *Auto Unlock without the original Cowboy app*, some of you just want to grab the bike and ride. They don't need trip history, speed or what so ever. For this I need a background service which constantly scans for the bike. This must be done with an as low as possible battery usage. That part might be the biggest challenge.<br>This in combination with *auto unlock* and *auto lock* on the bike enabled could be handy for those users. 
 
 
 ## FAQ
