@@ -32,6 +32,10 @@ Field weakening 0% (default): `011000810001020000b841`
 - Close flash: `011001ff0001020000a29f`
 - **Note:** Not needed for testing as long as you don't lock the bike.
 
-
+##### Enable / Disable *Auto Unlock* (on a V1+):
+- Enable *Auto Unlock*: `0A100014000102000117B4`
+<br>or<br>
+Disable *Auto Unlock*: `0A1000140001020000D674`
+- **Note:** You don't need to store this value to flash. It's immediately active.
 
 If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
