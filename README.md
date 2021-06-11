@@ -70,7 +70,7 @@ A drawback of field weakening is the fact that it costs extra current, so your b
 
 I recommend a field weakening value of 15%. More then 20% would be inefficient and might cause damage to the motor. ASI advices a maximum of 25%, therefore the app is limited to 25%.
 
-For those who do not want to write the settings "permanently" to their motor controller, use the "[Quick Launch Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#quicklaunchpresets)" instead.
+*For those who do not want to write the settings "persistantly" to their motor controller, use the "[Quick Launch Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#quick-launch-presets)" instead.*<br>If you use your bike regularly for, let's say, commuting I would recommend the procedure below for a *set and forget* approach. This way you only have to use the original Cowboy App after making the changes you want.
 
 - **Make sure the original Cowboy app has been closed completely (and apps like Bronco).**
 - No other devices may be connected via bluetooth to your bike.
