@@ -70,6 +70,8 @@ A drawback of field weakening is the fact that it costs extra current, so your b
 
 I recommend a field weakening value of 15%. More then 20% would be inefficient and might cause damage to the motor. ASI advices a maximum of 25%, therefore the app is limited to 25%.
 
+For those who do not want to write the settings "permanently" to their motor controller, use the "[Quick Launch Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#quicklaunchpresets)" instead.
+
 - **Make sure the original Cowboy app has been closed completely (and apps like Bronco).**
 - No other devices may be connected via bluetooth to your bike.
 - Make sure you only have one bluetooth profile called "Cowboy" and that this is the correct bike.<br>Multiple bikes are not (yet) supported.
@@ -95,7 +97,7 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 - Disconnect from the bike.
 
 #### Quick Launch Presets
-With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br><br>
+With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br>A major drawback is that you always have to load the preset manually for each ride.<br><br>
 **Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
 To configure the *Quick Launch Presets* go to the corresponding menu in the main app.<br><br>
 As stated earlier I made some discoveries how to make the bike peddle a little bit heavier. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. By decreasing the *Peddle Max Torque* percentage the overall force needed to power your Cowboy will be increased. 100% is default, lower values will make you sweat more.<br><br>
