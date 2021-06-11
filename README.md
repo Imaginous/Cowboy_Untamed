@@ -9,15 +9,14 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 
 ## Download
 Direct download: [Cowboy Untamed V3.01](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.01/cowboyuntamed_v3_01.apk)<br>
-Direct download: [Cowboy Untamed V2.76](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V2.76/cowboyuntamed_v2.76.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
-
-## Free accessories on your new bike
-If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 of free accessories on your new bike.
 
 ## Donate
 If you like the app you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=EkJA4Zm7Qpq1eDSKdddMeQ).
+
+## Free accessories on your new bike
+If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 of free accessories on your new bike.
 
 ## Introduction
 *Main Features:*
@@ -27,7 +26,7 @@ If you have a Dutch bank account you may also make your [donation via iDeal](htt
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
 
-*Quick Launch Presets in V3.00:*
+*Quick Launch Presets in V3.xx:*
 - Quickly start your bike with one of three prefered settings without saving them to flash memory.
 - Lower the default peddle to motor torque conversion. Lowering the assistance, making you work harder.
 - Lower the maximum power output for given speed ranges. You can lower the power output for 10-20km/h so it's more easy to cycle along a non e-bike rider. But still have the punch to get going.
@@ -100,7 +99,7 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br><br>
 **Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
 To configure the *Quick Launch Presets* go to the corresponding menu in the main app.<br><br>
-As stated earlier I made some discoveries how to make the bike peddle a little bit heavier. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. By decreasing the *Peddle Max Torque* percentage the overall force needed to power your Coboy will be increased. 100% is default, lower values will make you sweat more.<br><br>
+As stated earlier I made some discoveries how to make the bike peddle a little bit heavier. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. By decreasing the *Peddle Max Torque* percentage the overall force needed to power your Cowboy will be increased. 100% is default, lower values will make you sweat more.<br><br>
 To get more precise control over the motor power the motor controller has 8 registers to set the maximum power output at certain speeds. These speeds are determined by the set maximum speed.<br>This is why you need to be connected to your bike when configuring. This will get the set maximum speed and calculates the corresponding speed ranges. These will be noted underneath each speed level.<br>
 You can now set the maximum power as a percentage, 100% is default, 0% is no assist at all at the given speed range.<br>
 With this system you can still get up to speed with 100% power, but when reaching 10km/h you can lower the output so you have to peddle harder. This makes it more natural when cycling along a non e-biker.<br><br>
@@ -112,6 +111,11 @@ At this point in time I can't give any advise on the "best" values. Just determi
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
 
+##### My current favorite V1+ settings:
+For me the sweetspot between excercise and still going fast came up with the following settings:
+- Speed Limit: **Disabled** *(duh)*
+- Field Weakening: **18**
+- Peddle Max Torque: **85**
 
 ## The future
 I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>
