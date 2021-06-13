@@ -108,7 +108,6 @@ Off course you can also set *field weakening*. When left empty the bike operates
 At this point in time I can't give any advise on the "best" values. Just determine them with trail and error.<br><br>
 **Note**: empty fields are not send to the bike. The default values stored in the motor controller are used. As stated before don't use the *FLASH* button in the main app when your bike was unlocked using a preset. First lock your bike then start the main app to do alterations. 
 
-
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
 
@@ -117,6 +116,26 @@ For me the sweetspot between excercise and still going fast came up with the fol
 - Speed Limit: **Disabled** *(duh)*
 - Field Weakening: **18**
 - Peddle Max Torque: **85**
+
+#### Auto Unlock (V1+)
+I can confirm *Auto Unlock* is atleast working up to firmware V4.8.16 (V1+). 
+**Note:** after locking the bike has a grace period of a few minutes before enabling *Auto Unlock* after it's locked. Also your phone must been out of reach of the bike. For testing you can temporarely disable bleutooth.
+
+The way to get it working:
+- Connect to your bike with the *Cowboy Untamed* app.
+- Switch on *Auto Unlock*.
+- Disconnect from your bike in the *Cowboy Untamed* app.
+- Disable bluetooth (for testing only).
+- Wait for a minute or two.
+- Enable bluetooth.
+- Start the *original Cowboy* app.
+- The LEDs on the bike should turn on and off slowly.
+- The app should show you an *Auto Unlock* notification.
+- Move your bike to unlock it.
+
+![Screenshot_20210610-110032](https://user-images.githubusercontent.com/68418842/121815735-242cf500-cc78-11eb-891d-324b3f7c323d.png)
+
+https://user-images.githubusercontent.com/68418842/121816038-a36ef880-cc79-11eb-8c68-637a619ac671.mp4
 
 ## The future
 I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>
