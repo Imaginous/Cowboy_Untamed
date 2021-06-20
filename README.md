@@ -133,9 +133,10 @@ The way to get it working:
 - The app should show you an *Auto Unlock* notification.
 - Move your bike to unlock it.
 
-![Screenshot_20210610-110032](https://user-images.githubusercontent.com/68418842/121815735-242cf500-cc78-11eb-891d-324b3f7c323d.png)
-
-https://user-images.githubusercontent.com/68418842/121816038-a36ef880-cc79-11eb-8c68-637a619ac671.mp4
+<p float="left">
+<img src="https://user-images.githubusercontent.com/68418842/121815735-242cf500-cc78-11eb-891d-324b3f7c323d.png" alt="Screenshot Cowboy App Auto Unlock" height="500"/>
+<img src="https://user-images.githubusercontent.com/68418842/122684405-80a68c00-d205-11eb-9bda-d0438b95ced7.gif" alt="Auto Unlock Bike" height="500"/>
+</p>
 
 ## The future
 I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>
