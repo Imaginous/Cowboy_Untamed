@@ -119,7 +119,7 @@ For me the sweetspot between excercise and still going fast came up with the fol
 - Peddle Max Torque: **85**
 
 #### Auto Unlock (V1+)
-I can confirm *Auto Unlock* is atleast working up to firmware V4.8.16 (V1+). 
+I can confirm *Auto Unlock* is atleast working up to firmware V4.8.17 (V1+).<br> 
 **Note:** after locking the bike has a grace period of a few minutes before enabling *Auto Unlock* after it's locked. Also your phone must been out of reach of the bike. For testing you can temporarely disable bleutooth.
 
 The way to get it working:
