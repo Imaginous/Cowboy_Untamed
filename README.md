@@ -110,6 +110,7 @@ At this point in time I can't give any advise on the "best" values. Just determi
 
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
+<br>**Note:** It seems firmware V4.8.17 makes the headlight more reliable on the V1+. 
 
 ##### My current favorite V1+ settings:
 For me the sweetspot between excercise and still going fast came up with the following settings:
