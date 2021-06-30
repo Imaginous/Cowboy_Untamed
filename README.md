@@ -8,7 +8,7 @@ An Android app to lift the speed limit of your Cowboy bike and make other tweaks
 #### !!! It might void your warranty
 
 ## Download
-Direct download: [Cowboy Untamed V3.05](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.05/cowboyuntamed_v3_05.apk)<br>
+Direct download: [Cowboy Untamed V3.06](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.06/cowboyuntamed_v3_06.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
 ## Donate
@@ -30,6 +30,7 @@ If you don't have a Cowbow bike yet... use this [refferal link](https://share.co
 - Quickly start your bike with one of three prefered settings without saving them to flash memory.
 - Lower the default peddle to motor torque conversion. Lowering the assistance, making you work harder.
 - Lower the maximum power output for given speed ranges. You can lower the power output for 10-20km/h so it's more easy to cycle along a non e-bike rider. But still have the punch to get going.
+- Automatically start the original Cowboy app after selecting a preset.
 
 
 <p float="left">
