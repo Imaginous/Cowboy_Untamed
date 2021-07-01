@@ -23,6 +23,8 @@ Enable speed limit (default): `0110000b000102000226ea`
 ##### Set field weakening (needed to go faster then 30km/h):
 - Field weakening 20%: `0110008100010203f8a4`
 <br>or<br>
+Field weakening 18%: `0110008100010202e17969`
+<br>or<br>
 Field weakening 15%: `011000810001020266390b`
 <br>or<br>
 Field weakening 0% (default): `011000810001020000b841`
