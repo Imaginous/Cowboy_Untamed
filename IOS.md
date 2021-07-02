@@ -1,6 +1,17 @@
 # IOS Users
 
-You can also do the "hacks" by hand using the [nRF Connect](https://apps.apple.com/nl/app/nrf-connect-bluetooth-app/id1054362403 "nRF Connect") app or the [BLE Scanner](https://apps.apple.com/nl/app/ble-scanner-4-0/id1221763603 "BLE Scanner") app from the Apple Store.
+You can also do some "hacks" by hand using the [nRF Connect](https://apps.apple.com/nl/app/nrf-connect-bluetooth-app/id1054362403 "nRF Connect") app or the [BLE Scanner](https://apps.apple.com/nl/app/ble-scanner-4-0/id1221763603 "BLE Scanner") app from the Apple Store.
+
+## Why isn't there an IOS app?
+Many people ask me why there is no IOS app?
+- First of all I'm not an IOS developer. To become an IOS developer Apple charges €100,- per year.
+- Furthermore you need Apple devices to develop on and test with.
+- Also "side loading", putting an app on your phone outside the *Apple Store* is almost impossible for non developers. So you need a developer account yourself at the cost of €100,- per year.
+- Another developer contacted me willing to make an IOS version. However after some research it seems to be difficult to get the app approved for the *Apple Store* due to the *hack* nature of it. Also the developer of the *Moofer app* (for van Moof bikes) pointed out that he had a lot of problems getting his app in the *Apple Store*. It's finally allowed because it basicly only changes the country in which the bike is used.
+- All in all for me it's just not worth it to go through all this trouble and since I don't own any recent Apple devices I don't feel any personal need for it.
+- You can do the manual *hack* with the provided information below, which I gathered during my research.
+
+I'm sorry cowboys and girls, but Android is just more open minded and *hacker* friendly ;)
 
 ## Usage
 
