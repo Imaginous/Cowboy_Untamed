@@ -21,9 +21,7 @@ Connect to your Cowboy and make sure it's connected and bonded. Go to Nordic UAR
 Enable speed limit (default): `0110000b000102000226ea`
 
 ##### Set field weakening (needed to go faster then 30km/h):
-- Field weakening 20%: `0110008100010203f8a4`
-<br>or<br>
-Field weakening 18%: `0110008100010202e17969`
+- Field weakening 18%: `0110008100010202e17969`
 <br>or<br>
 Field weakening 15%: `011000810001020266390b`
 <br>or<br>
@@ -41,3 +39,7 @@ Disable *Auto Unlock*: `0A1000140001020000D674`
 - **Note:** You don't need to store this value to flash. It's immediately active.
 
 If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
+
+
+## Donate
+If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
