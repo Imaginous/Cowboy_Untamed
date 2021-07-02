@@ -1,5 +1,7 @@
 # Cowboy Untamed
-An Android app to remove the speed limit of your Cowboy bike and make other tweaks to make the bike even better.
+An Android app to remove the speed limit of your Cowboy bike, make it faster and other tweaks to make the bike even better.
+<br><br>
+*IOS information: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
 
 ## LEGAL NOTICE
 #### !!! USE THIS APPLICATION AT YOUR OWN RISK
@@ -8,8 +10,9 @@ An Android app to remove the speed limit of your Cowboy bike and make other twea
 #### !!! It might void your warranty
 
 ## Download
-Direct download: [Cowboy Untamed V3.08](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.08/cowboyuntamed_v3_08.apk)<br>
+Direct download Android: [Cowboy Untamed V3.08](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.08/cowboyuntamed_v3_08.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
+
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
