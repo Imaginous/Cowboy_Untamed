@@ -12,7 +12,7 @@ Direct download: [Cowboy Untamed V3.08](https://github.com/Imaginous/Cowboy_Unta
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
 ## Donate
-If you like the app you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
+If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=Ve3DD3zMTjuO1K34UgLw1g).
 You're free to choose any amount you like. 
 
