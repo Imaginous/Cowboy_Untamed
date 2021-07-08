@@ -39,8 +39,8 @@ Field weakening 15%: `011000810001020266390b`
 Field weakening 0% (default): `011000810001020000b841`
 
 ##### To make the changes "persistant" after lock or battery removal:
-- Store in flash: `011001ff0001027fffc2ef`
-- Close flash: `011001ff0001020000a29f`
+- Store in flash: `011001ff0001027fffc2ef`<br>followed by<br>
+Close flash: `011001ff0001020000a29f`
 - **Note:** Not needed for testing as long as you don't lock the bike.
 
 ##### Enable / Disable *Auto Unlock* (on a V1+):
