@@ -45,9 +45,8 @@ Disconnect from your bike on the *MAIN SCREEN*. Now long press *Cowboy Untamed P
 The following screenshots show settings which give quite pleasant settings for me. Note it's all to preference.
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/68418842/125068422-c09ab980-e0b5-11eb-86bc-661d0694d562.png" alt="Example Preset Slow" width="250"/>
-<img src="https://user-images.githubusercontent.com/68418842/125068452-c8f2f480-e0b5-11eb-90e7-f07d9570a9ba.png" alt="Example Preset Normal" width="250"/>
-<img src="https://user-images.githubusercontent.com/68418842/125068479-d0b29900-e0b5-11eb-9a56-db8bdc92a350.png" alt="Example Preset Fast" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/125077364-512ac700-e0c1-11eb-9a87-b3722a61099e.png" alt="Example Preset Slow" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/125077386-56881180-e0c1-11eb-8da6-c47a63a04d2a.png" alt="Example Preset Normal" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/125077399-5ab42f00-e0c1-11eb-9f2e-5df24054556e.png" alt="Example Preset Fast" width="250"/>
 </p>
-
 
