@@ -103,15 +103,8 @@ Alternative method using my hardcoded defaults, unlock following the above menti
 
 #### Quick Launch Presets
 With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br>A major drawback is that you always have to load the preset manually for each ride.<br><br>
-**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
-To configure the *Quick Launch Presets* go to the corresponding menu in the main app.<br><br>
-As stated earlier I made some discoveries how to make the bike peddle a little bit heavier. Sometimes I find the default force a bit to low to my likings. With the *Quick Launch Presets* you can now alter the peddle torque to motor torque level. By decreasing the *Peddle Max Torque* percentage the overall force needed to power your Cowboy will be increased. 100% is default, lower values will make you sweat more.<br><br>
-To get more precise control over the motor power the motor controller has 8 registers to set the maximum power output at certain speeds. These speeds are determined by the set maximum speed.<br>This is why you need to be connected to your bike when configuring. This will get the set maximum speed and calculates the corresponding speed ranges. These will be noted underneath each speed level.<br>
-You can now set the maximum power as a percentage, 100% is default, 0% is no assist at all at the given speed range.<br>
-With this system you can still get up to speed with 100% power, but when reaching 10km/h you can lower the output so you have to peddle harder. This makes it more natural when cycling along a non e-biker.<br><br>
-Off course you can also set *field weakening*. When left empty the bike operates in its default mode (torque with speed limit). Entering 0-20% will disable the speed limit and set *field weakening*.<br><br>
-At this point in time I can't give any advise on the "best" values. Just determine them with trail and error.<br><br>
-**Note**: empty fields are not send to the bike. The default values stored in the motor controller are used. As stated before don't use the *FLASH* button in the main app when your bike was unlocked using a preset. First lock your bike then start the main app to do alterations. 
+For more information about the **configuration** read: [Configuring Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/8d6e54f92d7533ade69096deab1b06cd6be3ff6f/Presets.md).
+<br>**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
 
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
