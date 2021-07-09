@@ -6,12 +6,11 @@ This functionality can only be used on Android.
 ## Introduction
 
 Some Cowboys out there are not comfortable with storing/altering their motor controller settings. For those Cowboys and those whom want to use an alternative setting once a while.
-Presets can be a solution. 
+Presets can be a solution. The values set with a preset are lost when the bike is locked or the battery is removed.
 Also it brings the posibility the lower the motor support to make you work harder and preserve some battery power.
 
 The configuration is done through the main Cowboy Untamed app via menu *Quick Launch Presets*. You have to be connected to your bike, even for configuring the presets. Some values are internally specific per version of each Cowboy bike. Therfore I need to fetch them tot calculate the correct value.<br>
 After configuration use the second app icon to start presets. Just long press the app icon to select a preset. Clicking the icon will activate the last used preset.
-
 
 **Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.
 
@@ -40,4 +39,15 @@ Explanation of the various values:
 After you set your values press **STORE PRESET**, this will not send anything to your bike. This only stores the settings in the app.
 Disconnect from your bike on the *MAIN SCREEN*. Now long press *Cowboy Untamed Presets* icon and select the wanted preset. Clicking the icon will start the last preset.
 
-**Note:** using presets will not alter any settings used with the *FLASH* method when a field is left empty. So if you set your field weakening to 18% with the *FLASH* method and you leave the field emty in the presets 18% will be used. If you enter 0, the speed limit will be enforced without any field weakening. As soon as you lock the bike the preset is gone. So the next time you just unlock your bike the 18% field weakening will be applied again.
+**Note:** using presets will not alter any settings used with the *FLASH* method when a field is left empty. So if you set your field weakening to 18% with the *FLASH* method and you leave the field empty in the presets, 18% will be used. If you enter 0, the speed limit will be enforced without any field weakening. As soon as you lock the bike the preset is gone. So the next time you just unlock your bike the 18% field weakening will be applied again.
+
+## My preferred Cowboy V1+ settings
+The following screenshots show settings which give quite pleasant settings for me. Note it's all to preference.
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/68418842/125068422-c09ab980-e0b5-11eb-86bc-661d0694d562.png" alt="Example Preset Slow" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/125068452-c8f2f480-e0b5-11eb-90e7-f07d9570a9ba.png" alt="Example Preset Normal" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/125068479-d0b29900-e0b5-11eb-9a56-db8bdc92a350.png" alt="Example Preset Fast" width="250"/>
+</p>
+
+
