@@ -35,6 +35,7 @@ If you don't have a Cowbow bike yet... use this [refferal link](https://share.co
 - Lower the default peddle to motor torque conversion. Lowering the assistance, making you work harder.
 - Lower the maximum power output for given speed ranges. You can lower the power output for 10-20km/h so it's more easy to cycle along a non e-bike rider. But still have the punch to get going.
 - Automatically start the original Cowboy app after selecting a preset.
+<br>[Click here for more information on how to configure presets.](https://github.com/Imaginous/Cowboy_Untamed/blob/8d6e54f92d7533ade69096deab1b06cd6be3ff6f/Presets.md)
 
 
 <p float="left">
