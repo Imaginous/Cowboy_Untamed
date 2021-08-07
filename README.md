@@ -19,8 +19,8 @@ If you like the app or the IOS instructions you're free to make a small donation
 If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=Ve3DD3zMTjuO1K34UgLw1g).
 You're free to choose any amount you like. 
 
-## Free accessories on your new bike
-If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 of free accessories on your new bike.
+## Discount or free accessories on your new bike
+If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount or €100 of free accessories on your new bike.
 
 ## Introduction
 *Main Features:*
