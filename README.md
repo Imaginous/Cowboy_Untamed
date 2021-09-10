@@ -16,7 +16,8 @@ Version information: [Version overview](https://github.com/Imaginous/Cowboy_Unta
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via [PayPal](https://paypal.me/pools/c/8zcWXI7VnO).<br>
-If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=Ve3DD3zMTjuO1K34UgLw1g).
+If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=ji8JZ4H8TsO25uCbyg8eXQ).<br>
+2021-09-10: I have updated the iDeal link, it had expired.<br><br>
 You're free to choose any amount you like. 
 
 ## Discount or free accessories on your new bike
