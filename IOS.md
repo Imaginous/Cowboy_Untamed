@@ -13,6 +13,10 @@ Many people ask me why there is no IOS app?
 
 I'm sorry cowboys and girls, but Android is just more open minded and *hacker* friendly ;)
 
+
+## Donate
+If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
+
 ## Usage
 
 Disable speedlimit (tested on Cowboy V1+) but should work on V2 and V3 too.
@@ -50,7 +54,3 @@ Disable *Auto Unlock*: `0A1000140001020000D674`
 - **Note:** You don't need to store this value to flash. It's immediately active.
 
 If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
-
-
-## Donate
-If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
