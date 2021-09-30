@@ -16,9 +16,9 @@ Version information: [Version overview](https://github.com/Imaginous/Cowboy_Unta
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via [PayPal](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+using+the+Cowboy+Untamed+app+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR).<br>
-If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=ji8JZ4H8TsO25uCbyg8eXQ).<br>
-2021-09-10: I have updated the iDeal link, it had expired.<br><br>
-You're free to choose any amount you like. 
+If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=ji8JZ4H8TsO25uCbyg8eXQ).<br><br>
+You're free to choose any amount you like. <br><br>
+2021-09-30: PayPal has changed their donation system, updated the link.
 
 
 ## Discount or free accessories on your new bike
