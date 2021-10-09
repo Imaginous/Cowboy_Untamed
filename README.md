@@ -96,37 +96,24 @@ I recommend a field weakening value of 15%. More then 20% would be inefficient a
 - Move the connection slider back to the off position. The app will lock the bike and disconnect.
 - Now you are done. You can start using your bike like you did before. You can use the original Cowboy app.
 
+##### My current favorite V1+ settings:
+For me the sweetspot between excercise and still going fast came up with the following settings:
+- Speed Limit: **Disabled** *(duh)*
+- Field Weakening: **18**
+- Peddle Max Torque: **85**<br><br>
+
 ##### Restoring default settings
 Use the same method as above, but entering the values you have written down on first use.
 Alternative method using my hardcoded defaults, unlock following the above mentioned procedure.
 - Connect to the bike.
 - Press the "DEFAULTS" button to fill in the default settings and send them to the bike.
 - Press the "FLASH" button to store them in the flash memory of the motor controller.<br>*You only have to do this if you flashed your settings before. Not if you only have used the "TEST" button.*
-- Disconnect from the bike.
+- Disconnect from the bike.<br><br>
 
 #### Quick Launch Presets
 With this new feature (and second app icon) you can setup three presets (Slow, Normal, Fast) and quickly unlock your bike with one of these presets. Just long press the *Cowboy Untamed Presets* app icon and select one of the three presets. Clicking the *Cowboy Untamed Presets* app icon will unlock the bike with the last used preset. These presets are not stored in flash and will be reset after locking your bike.<br>A major drawback is that you always have to load the preset manually for each ride.<br><br>
 For more information about the **configuration** read: [Configuring Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/8d6e54f92d7533ade69096deab1b06cd6be3ff6f/Presets.md).
 <br>**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
-
-##### The bike judders at start
-If your bike judders you may alter the 'Hall Interpolation Transitions' field of the motor controller. This field 128. Default this has a value of 1 (note: on some bikes this has been altered by Cowboy already). This means the timing of the motor will be measured after 1 full rotation of the wheel. So the motor 'understands' when to kick in. If this is not measured correctly the motor kicks in at the wrong moment and will judder. By increasing this value more rotations will be used and the value will be more accurate, so no judder.<br><br>
-You can alter this value on the *Expert Settings* page. Enter addres 128 and read the current value. Note the RAW value somewhere, this way you can always revert to this value.
-Enter the desired RAW value, 8 and 15 are often used. Press *write*. You can now test your bike. If it functions well return to the main page of Cowboy Untamed and press the *Flash* button to make the change 'permanent'.
-
-*Note of warning: if you are using the 'Bronco' app there is a setting called 'Initial Torque'. This might sounds like you get more torque at startup. But infact is only chanching the 'Hall Interpolation Transitions' register.*
-
-
-
-##### V1+ Headlight bug
-A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
-<br>**Note:** It seems firmware V4.8.17 makes the headlight more reliable on the V1+. 
-
-##### My current favorite V1+ settings:
-For me the sweetspot between excercise and still going fast came up with the following settings:
-- Speed Limit: **Disabled** *(duh)*
-- Field Weakening: **18**
-- Peddle Max Torque: **85**
 
 #### Auto Unlock (V1+)
 I can confirm *Auto Unlock* is atleast working up to firmware V4.8.17 (V1+).<br> 
@@ -148,6 +135,20 @@ The way to get it working:
 <img src="https://user-images.githubusercontent.com/68418842/121815735-242cf500-cc78-11eb-891d-324b3f7c323d.png" alt="Screenshot Cowboy App Auto Unlock" height="500"/>
 <img src="https://user-images.githubusercontent.com/68418842/122684405-80a68c00-d205-11eb-9bda-d0438b95ced7.gif" alt="Auto Unlock Bike" height="500"/>
 </p>
+
+## Known general Cowboy issues
+There are some PCB and motor controller related issues that many Cowboys experience. Here are some workarounds in which Cowboy Untamed can help.
+
+#### The bike judders at start
+If your bike judders you may alter the 'Hall Interpolation Transitions' field of the motor controller. This field 128. Default this has a value of 1 (note: on some bikes this has been altered by Cowboy already). This means the timing of the motor will be measured after 1 full rotation of the wheel. So the motor 'understands' when to kick in. If this is not measured correctly the motor kicks in at the wrong moment and will judder. By increasing this value more rotations will be used and the value will be more accurate, so no judder.<br><br>
+You can alter this value on the *Expert Settings* page. Enter addres 128 and read the current value. Note the RAW value somewhere, this way you can always revert to this value.
+Enter the desired RAW value, 8 and 15 are often used. Press *write*. You can now test your bike. If it functions well return to the main page of Cowboy Untamed and press the *Flash* button to make the change 'permanent'.
+
+*Note of warning: if you are using the 'Bronco' app there is a setting called 'Initial Torque'. This might sounds like you get more torque at startup. But infact is only chanching the 'Hall Interpolation Transitions' register.*
+
+#### V1+ Headlight bug
+A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
+<br>**Note:** It seems firmware V4.8.17 makes the headlight more reliable on the V1+. 
 
 ## The future
 I think there is a quite solid base now for the future. Offcourse removing the speed limit was my main goal. Second I wanted to make shortcuts which I could use via *Tasker*.<br>I have discussed with other bikers and some of us would like to be able to set the support level. When you want to ride along with a non e-biker the support should be a lot less. The idea is to make speed dependant support. Let's say 0-10km/h you get the current support, 11-22km/h low to no support, 23->km/h regular untamed support. The levels can be set by the user. You can activate them via a long press shortcut.<br><br>These are ideas. I'm now ready to start exploring how to. I believe it can be done, but I want to do some serious testing with my own bike before I release it into the wild.<br><br>
