@@ -45,9 +45,9 @@ Field weakening 0% (default): `011000810001020000b841`
 ##### Resolve motor judder at start up:
 - Hall Interpolation Transitions 8: `011000800001020008B856`
 <br>or<br>
-Hall Interpolation Transitions 15: `0110008000010200017850`
+Hall Interpolation Transitions 15: `01100080000102000ff994`
 <br>or<br>
-Hall Interpolation Transitions 1 (default): `011000810001020000b841`
+Hall Interpolation Transitions 1 (default): `0110008000010200017850`
 
 ##### To make the changes "persistant" after lock or battery removal:
 - Store in flash: `011001ff0001027fffc2ef`<br>followed by<br>
