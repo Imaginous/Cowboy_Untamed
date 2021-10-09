@@ -36,9 +36,9 @@ Connect to your Cowboy and make sure it's connected and bonded. Go to Nordic UAR
 Enable speed limit (default): `0110000b000102000226ea`
 
 ##### Set field weakening (needed to go faster then 30km/h):
-- Field weakening 18%: `0110008100010202e17969`
+- Field weakening 18% (Recommended value for C1+, C2): `0110008100010202e17969`
 <br>or<br>
-Field weakening 15%: `011000810001020266390b`
+Field weakening 15% (Recommended value for C3): `011000810001020266390b`
 <br>or<br>
 Field weakening 0% (default): `011000810001020000b841`
 
