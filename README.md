@@ -109,6 +109,15 @@ With this new feature (and second app icon) you can setup three presets (Slow, N
 For more information about the **configuration** read: [Configuring Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/8d6e54f92d7533ade69096deab1b06cd6be3ff6f/Presets.md).
 <br>**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
 
+##### The bike judders at start
+If your bike judders you may alter the 'Hall Interpolation Transitions' field of the motor controller. This field 128. Default this has a value of 1 (note: on some bikes this has been altered by Cowboy already). This means the timing of the motor will be measured after 1 full rotation of the wheel. So the motor 'understands' when to kick in. If this is not measured correctly the motor kicks in at the wrong moment and will judder. By increasing this value more rotations will be used and the value will be more accurate, so no judder.<br><br>
+You can alter this value on the *Expert Settings* page. Enter addres 128 and read the current value. Note the RAW value somewhere, this way you can always revert to this value.
+Enter the desired RAW value, 8 and 15 are often used. Press *write*. You can now test your bike. If it functions well return to the main page of Cowboy Untamed and press the *Flash* button to make the change 'permanent'.
+
+*Note of warning: if you are using the 'Bronco' app there is a setting called 'Initial Torque'. This might sounds like you get more torque at startup. But infact is only chanching the 'Hall Interpolation Transitions' register.*
+
+
+
 ##### V1+ Headlight bug
 A bug on the V1+ is a non working headlight, the taillight still works.<br>Can it be fixed? With the Cowboy Untamed app you can reset your PCB. This will not reset any settings but only reboot the communications PCB. 9 out of 10 times the headlight bug will be fixed (for a while). There is no fix from Cowboy yet.<br>Connect to your bike with the Cowboy Untamed app. Go to the *Expert Settings* and press the *Reset PCB* button. This will reboot the bike, shown by "running lights" on the main tube LEDs. 
 <br>**Note:** It seems firmware V4.8.17 makes the headlight more reliable on the V1+. 
