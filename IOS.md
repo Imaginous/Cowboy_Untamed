@@ -4,9 +4,9 @@ You can also do some "hacks" by hand using the [nRF Connect](https://apps.apple.
 
 ## Why isn't there an IOS app?
 Many people ask me why there is no IOS app?
-- First of all I'm not an IOS developer. To become an IOS developer Apple charges €100,- per year.
+- First of all I'm not an IOS developer. To become an IOS developer Apple charges €200,- per year.
 - Furthermore you need Apple devices to develop on and test with.
-- Also "side loading", putting an app on your phone outside the *Apple Store* is almost impossible for non developers. So you need a developer account yourself at the cost of €100,- per year.
+- Also "side loading", putting an app on your phone outside the *Apple Store* is almost impossible for non developers. So you need a developer account yourself at the cost of €200,- per year.
 - Another developer contacted me willing to make an IOS version. However after some research it seems to be difficult to get the app approved for the *Apple Store* due to the *hack* nature of it. Also the developer of the *Moofer app* (for van Moof bikes) pointed out that he had a lot of problems getting his app in the *Apple Store*. It's finally allowed because it basicly only changes the country in which the bike is used.
 - All in all for me it's just not worth it to go through all this trouble and since I don't own any recent Apple devices I don't feel any personal need for it.
 - You can do the manual *hack* with the provided information below, which I gathered during my research.
@@ -19,8 +19,8 @@ If you like the instructions, you're welcome to make a [donation](https://github
 
 ## Usage
 
-Disable speedlimit (tested on Cowboy V1+) but should work on V2 and V3 too.
-It's completely at your own risk, your bike will be "illegal" in some countries. However the police cannot see it in the app.
+Disable speedlimit Cowboy C1+, C2 and C3.
+It's completely at your own risk, your bike will be "illegal" in most (European) countries. However the police cannot see it in the app.
 
 **Unlock your bike with the Cowboy app.**
 **Kill the Cowboy app and make sure it's not running in the backround.**
@@ -54,7 +54,7 @@ Hall Interpolation Transitions 1 (default): `0110008000010200017850`
 Close flash: `011001ff0001020000a29f`
 - **Note:** Not needed for testing as long as you don't lock the bike.
 
-##### Enable / Disable *Auto Unlock* (on a V1+):
+##### Enable / Disable *Auto Unlock* (on a C1+):
 - Enable *Auto Unlock*: `0A100014000102000117B4`
 <br>or<br>
 Disable *Auto Unlock*: `0A1000140001020000D674`
