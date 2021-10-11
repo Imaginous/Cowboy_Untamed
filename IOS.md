@@ -40,6 +40,12 @@ Enable speed limit (default): `0110000b000102000226ea`
 <br>or<br>
 Field weakening 15% (Recommended value for C3): `011000810001020266390b`
 <br>or<br>
+Field weakening 10% (Alternative value): `01100081000102019a39ba`
+<br>or<br>
+Field weakening 20% (Alternative value): `011000810001020333f8a4`
+<br>or<br>
+Field weakening 25% (**NOT RECOMMENDED** - Absolute maximum value): `011000810001020400ba81`
+<br>or<br>
 Field weakening 0% (default): `011000810001020000b841`
 
 ##### Resolve motor judder at start up:
