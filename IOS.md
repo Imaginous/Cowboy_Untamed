@@ -27,8 +27,12 @@ It's completely at your own risk, your bike will be "illegal" in most (European)
 
 For more information on the nRF Connect app go to [here](https://devzone.nordicsemi.com/f/nordic-q-a/22523/writing-hex-values-to-characteristics-using-nrf-connect "here").
 
-So use the nRF Connect app. It seems you have to connect to the Cowboy and then disable“Parse known characteristics". Now you can select "BYTE ARRAY" when sending. I assume this will solve the problem of the values not written correctly on some devices.
-Connect to your Cowboy and make sure it's connected and bonded. Go to Nordic UART Service Send values to RX Characteristic.
+So use the nRF Connect app. It seems you have to connect to the Cowboy and then disable “Parse known characteristics". Now you can select "BYTE ARRAY" when sending. I assume this will solve the problem of the values not written correctly on some devices.
+- Connect to your Cowboy and make sure it's connected and bonded.
+- Go to Nordic UART Service Send values to RX Characteristic.
+On some devices it might be shown as **CUSTOM SERVICE** address: `6E400001-B5A3-F393-E0A9-E50E24DCCA9E`.
+- Select the sub UUID: `6E400002-B5A3-F393-E0A9-E50E24DCCA9E` and select *write* or the *W* button.
+- Select *Byte Array* and send the wanted codes from the list below.
 
 ##### Disable / enable speed limit:
 - Disable speed limit: `0110000b000102000166eb`
@@ -60,10 +64,17 @@ Hall Interpolation Transitions 1 (default): `0110008000010200017850`
 Close flash: `011001ff0001020000a29f`
 - **Note:** Not needed for testing as long as you don't lock the bike.
 
+If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
+
 ##### Enable / Disable *Auto Unlock* (on a C1+):
 - Enable *Auto Unlock*: `0A100014000102000117B4`
 <br>or<br>
 Disable *Auto Unlock*: `0A1000140001020000D674`
 - **Note:** You don't need to store this value to flash. It's immediately active.
 
-If you have followed the steps above the settings should be made and you can start using the regular Cowboy app again.
+
+##### Reset PCB (fix headlight bug on C1+):
+- Reset: `0A1000F2000102000101B2`
+- **Note:** The bike will reset and will show a 2 led running light on the main tube to indeicate the PCB reset.<br>You won't lose any settings it's just a restart of the PCB.
+
+
