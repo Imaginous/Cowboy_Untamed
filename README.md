@@ -1,28 +1,27 @@
-# Cowboy Untamed
-An Android app to remove the speed limit of your Cowboy bike, make it faster and other tweaks to make the bike even better.
-<br><br>
-*IOS information: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
-
 ## LEGAL NOTICE
 #### !!! USE THIS APPLICATION AT YOUR OWN RISK
 #### !!! I do not accept any liability.
 #### !!! Unlocking your bike will make your bike illegal in most countries, atleast in the European Union.
 #### !!! It might void your warranty
 
+# Cowboy Untamed
+An Android app to remove the speed limit of your Cowboy bike, make it faster and other tweaks to make the bike even better.
+<br><br>
+*IOS information: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
+
+
 ## Download
-Direct download Android: [Cowboy Untamed V3.11](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.11/cowboyuntamed_v3_11.apk)<br>
+Direct download Android: [Cowboy Untamed V3.12](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.12/cowboyuntamed_v3_12.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via [PayPal](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+using+the+Cowboy+Untamed+app+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR).<br>
-If you have a Dutch bank account you may also make your [donation via iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=ji8JZ4H8TsO25uCbyg8eXQ).<br><br>
-You're free to choose any amount you like. <br><br>
-2021-09-30: PayPal has changed their donation system, updated the link.
+You're free to choose any amount you like. <br>
 
 
-## Discount or free accessories on your new bike
-If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount or €100 of free accessories on your new bike.
+## Discount on your new Cowboy V3, V4 bike
+If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.
 
 ## Introduction
 *Main Features:*
