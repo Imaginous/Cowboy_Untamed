@@ -1,6 +1,6 @@
 # IOS Users
 
-You can use an Android phone to make the "hacks" or do some of them by hand using the [nRF Connect](https://apps.apple.com/nl/app/nrf-connect-bluetooth-app/id1054362403 "nRF Connect") app or the [BLE Scanner](https://apps.apple.com/nl/app/ble-scanner-4-0/id1221763603 "BLE Scanner") app from the Apple Store.
+You can use an Android phone to make the "hacks" or do some of them by hand using the [BLE Scanner](https://apps.apple.com/nl/app/ble-scanner-4-0/id1221763603 "BLE Scanner") app (my preference) or the [nRF Connect](https://apps.apple.com/nl/app/nrf-connect-bluetooth-app/id1054362403 "nRF Connect") app from the Apple Store.
 
 ## Donate
 If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
@@ -19,7 +19,7 @@ So use the nRF Connect app. It seems you have to connect to the Cowboy and then 
 - Go to Nordic UART Service Send values to RX Characteristic.
 On some devices it might be shown as **CUSTOM SERVICE** address: `6E400001-B5A3-F393-E0A9-E50E24DCCA9E`.
 - Select the sub UUID: `6E400002-B5A3-F393-E0A9-E50E24DCCA9E` and select *write* or the *W* button.
-- Select *Byte Array* and send the wanted codes from the list below.
+- Select *Byte Array* and send the wanted codes from the list below. In some apps you have to choose between *request* or *command*, you need to select *command*.
 
 ##### Disable / enable speed limit:
 - Disable speed limit: `0110000b000102000166eb`
