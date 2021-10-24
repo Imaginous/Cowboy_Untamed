@@ -5,13 +5,14 @@
 #### !!! It might void your warranty
 
 # Cowboy Untamed
-An Android app to remove the speed limit of your Cowboy bike, make it faster and other tweaks to make the bike even better.
+An Android app to remove the speed limit of your Cowboy V1+, V2 or V3 bike, make it faster and other tweaks to make the bike even better.<br>
+*At this time I can't tell if it will work on the V4(ST), [click here for more info]().
 <br><br>
 *IOS information: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
 
 
 ## Download
-Direct download Android: [Cowboy Untamed V3.12](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.12/cowboyuntamed_v3_12.apk)<br>
+Direct download Android: [Cowboy Untamed V3.16](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.16/cowboyuntamed_v3_16.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
 
 
@@ -20,7 +21,7 @@ If you like the app or the IOS instructions you're free to make a small donation
 You're free to choose any amount you like. <br>
 
 
-## Discount on your new Cowboy V3, V4 bike
+## Discount on your new Cowboy V3, V4(ST) bike
 If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.
 
 ## Introduction
@@ -162,6 +163,8 @@ This setting can be handy to put in a bit more effort yourself and spare battery
 - *Walk* mode. A function where the bike propells its self at low speed. This can be handy when the belt has snapped. Technically it's possible via a hardware switch... now I have to figure out if it can be done by software only. It must be via an official function of the motor controller, because I don't want to do dirty hacks which can lead to failure or injuries.
 - *Auto Unlock without the original Cowboy app*, some of you just want to grab the bike and ride. They don't need trip history, speed or what so ever. For this I need a background service which constantly scans for the bike. This must be done with an as low as possible battery usage. That part might be the biggest challenge.<br>This in combination with *auto unlock* and *auto lock* on the bike enabled could be handy for those users. 
 
+## Cowboy 4(ST)
+Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume they use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.<br><br>So to all C4's out there... do you live near Rotterdam and want to help me out? Visit me and we will have a look!
 
 ## FAQ
 
@@ -171,4 +174,4 @@ This setting can be handy to put in a bit more effort yourself and spare battery
 - Why should I enter 15% or 18% for the field weakening values?<br>These are merely my advise. The lower you keep the percentage the better it is for your battery range. At the moment I'm using 18% on my V1+ bike. It feels speedy enough, going faster makes my legs go round like a mad man. It's fun for a while, but not for a longer stretch. So 18% is my sweet spot. I assume on a V3 bike 15% is a more likely figure because of the lower gear ratio compared to the V1 and V2.
 - Can the settings be undone?<br>Yes, if you have not tinkered with this app (or other apps like Bronco) you can write down your settings and re-apply them later. Using the defaults button can be tricky if Cowboy changes their default settings. Until now they didn't so you should be safe.
 - I want to make a donation, how?<br>[Just click here](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate) to see the instructions.
-- Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume the use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.
+
