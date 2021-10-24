@@ -5,10 +5,10 @@
 #### !!! It might void your warranty
 
 # Cowboy Untamed
-An Android app to remove the speed limit of your Cowboy V1+, V2 or V3 bike, make it faster and other tweaks to make the bike even better.<br>
+An **Android app to remove the speed limit** of your Cowboy V1+, V2 or V3 bike, make it faster and other tweaks to make the bike even better.<br>
 *At this time I can't tell if it will work on the V4(ST), [click here for more info](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st).*
 <br><br>
-*IOS information: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
+***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
 
 
 ## Download
