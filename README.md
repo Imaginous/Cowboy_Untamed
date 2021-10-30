@@ -171,7 +171,8 @@ This setting can be handy to put in a bit more effort yourself and spare battery
 - *Preset buttons* in the main app. 
 
 ## Cowboy 4(ST)
-Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume they use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.<br><br>So to all C4's out there... do you live near Rotterdam and want to help me out? Visit me and we will have a look!
+Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume they use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.<br><br>So to all C4's out there... do you live near Rotterdam and want to help me out? Visit me and we will have a look!<br><br>
+**2021-10-30**: Today I found some registers in the new Cowboy app pointing at a C4 feature. Turning the phone charger on/off. This could mean that the main controller uses the same protocol.<br>Not yet sure about the motor controller, which is the most important part. 
 
 ## FAQ
 
