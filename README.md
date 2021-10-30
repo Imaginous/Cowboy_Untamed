@@ -162,8 +162,13 @@ I think there is a quite solid base now for the future. Offcourse removing the s
 This setting can be handy to put in a bit more effort yourself and spare battery power. 
 
 **2021-06-08**: A pre-release version of the *Quick launch Presets*.<br><br>The following whishes have popped up from users:
+
+## User wishlist 
 - *Walk* mode. A function where the bike propells its self at low speed. This can be handy when the belt has snapped. Technically it's possible via a hardware switch... now I have to figure out if it can be done by software only. It must be via an official function of the motor controller, because I don't want to do dirty hacks which can lead to failure or injuries.
 - *Auto Unlock without the original Cowboy app*, some of you just want to grab the bike and ride. They don't need trip history, speed or what so ever. For this I need a background service which constantly scans for the bike. This must be done with an as low as possible battery usage. That part might be the biggest challenge.<br>This in combination with *auto unlock* and *auto lock* on the bike enabled could be handy for those users. 
+- A *watch app*. Please note you can control Cowboy Untamed with *Tasker*. So if you instal a Tasker control app on your watch you can already achieve this functionality. 
+- A *widget* with the basic functionality like un/lock, lights & presets. 
+- *Preset buttons* in the main app. 
 
 ## Cowboy 4(ST)
 Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume they use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.<br><br>So to all C4's out there... do you live near Rotterdam and want to help me out? Visit me and we will have a look!
