@@ -66,6 +66,4 @@ Now stick the reflector part to the PCB (note the notches - V2 only). Now clip o
 
 
 ## Donate
-If you like my work, you're free to make a small donation.<br>You can do this securely via [PayPal](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+using+the+Cowboy+Untamed+app+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR).<br>
-You're free to choose any amount you like. <br>
-
+If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
