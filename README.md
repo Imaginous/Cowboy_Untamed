@@ -28,7 +28,8 @@ You're free to choose any amount you like. <br>
 
 
 ## Discount on your new Cowboy V3, V4(ST) bike
-If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.
+If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.<br>
+Sometimes the link just brings you to the Cowboy main page. If this happens use the "browse in private" mode of your browser. Other option is to erase your cookies. 
 
 ## Introduction
 *Main Features:*
