@@ -178,7 +178,7 @@ This setting can be handy to put in a bit more effort yourself and spare battery
 
 ## Cowboy 4(ST)
 **2021-12-21**: Good news, Cowboy untamed still works for the Cowboy 4(ST).<br>
-A fellow Cowboy was brave enough ;) to test it. It all seems to work fine. It seems they are using an ASI BAC500 controller. This one is compatible with my app.
+A fellow Cowboy was brave enough ;) to test it. It all seems to work fine. It seems they are using an ASI BAC500 controller. This one is compatible with my app.<br>
 **2021-10-30**: Today I found some registers in the new Cowboy app pointing at a C4 feature. Turning the phone charger on/off. This could mean that the main controller uses the same protocol.<br>Not yet sure about the motor controller, which is the most important part. 
 
 ## FAQ
