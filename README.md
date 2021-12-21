@@ -5,8 +5,9 @@
 #### !!! It might void your warranty
 
 # Cowboy Untamed
-An **Android app to remove the speed limit** of your Cowboy V1+, V2 or V3 bike, make it faster and other tweaks to make the bike even better.<br>
-*At this time I can't tell if it will work on the V4(ST), [click here for more info](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st).*
+An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **V4(ST)** bike, make it faster and other tweaks to make the bike even better.<br>
+**2021-12-21 Good news**: a fellow Cowboy has tested it on his **Cowboy V4(ST)**, and it still **works**!
+*[Click here for more info](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st).*
 <br><br>
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).*
 
@@ -176,7 +177,8 @@ This setting can be handy to put in a bit more effort yourself and spare battery
 - *Preset buttons* in the main app. 
 
 ## Cowboy 4(ST)
-Will this app work on a Cowboy V4?<br>I really don't know. I have not seen the bike in real life. If somebody can lent me one for a day I can probably find out if it is possible.<br><br>I assume they use another motor controller because of the more powerfull motor. But if they stayed with ASI they might have used an BAC500. This one is compatible with my app. But I also think they have changed the communications controller. Probably located in the handlebar console.<br><br>But this is all guessing, have to go hands on with the bike to make hard claims.<br><br>So to all C4's out there... do you live near Rotterdam and want to help me out? Visit me and we will have a look!<br><br>
+**2021-12-21**: Good news, Cowboy untamed still works for the Cowboy 4(ST).<br>
+A fellow Cowboy was brave enough ;) to test it. It all seems to work fine. It seems they are using an ASI BAC500 controller. This one is compatible with my app.
 **2021-10-30**: Today I found some registers in the new Cowboy app pointing at a C4 feature. Turning the phone charger on/off. This could mean that the main controller uses the same protocol.<br>Not yet sure about the motor controller, which is the most important part. 
 
 ## FAQ
