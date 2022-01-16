@@ -1,9 +1,15 @@
 # IOS Users
 
+You now can also use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer. 
+
 You can use an Android phone to make the "hacks" or do some of them by hand using the [BLE Scanner](https://apps.apple.com/nl/app/ble-scanner-4-0/id1221763603 "BLE Scanner") app (my preference) or the [nRF Connect](https://apps.apple.com/nl/app/nrf-connect-bluetooth-app/id1054362403 "nRF Connect") app from the Apple Store.
+
 
 ## Donate
 If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
+
+## Good news
+A fellow Cowboy has developed [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed). An app for IOS to untame your Cowboy. 
 
 ## Usage
 Disable speedlimit Cowboy C1+, C2 and C3.
