@@ -5,21 +5,15 @@
 #### !!! It might void your warranty
 
 # Cowboy Untamed
-An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **V4(ST)** bike, make it faster and other tweaks to make the bike even better.<br>
-**2021-12-21 Good news**: a fellow Cowboy has tested it on his **Cowboy V4(ST)**, and it still **works**!
-*[Click here for more info](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st).*
-<br><br>
+An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4(ST)](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st)** bike, make it faster and other tweaks to make the bike even better.<br><br>
 **Other cool Cowboy stuff:** [Click here for my Cowboy *hardware* customizations](https://github.com/Imaginous/Cowboy_Untamed/blob/main/Customization.md).
 <br><br>
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md) or use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer.*
 
-
 ## Download
-***Latest release 2021-11-03***<br>
-Direct download Android: [Cowboy Untamed V3.17](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.17/cowboyuntamed_v3_17.apk)<br>
-Direct download Android: [Cowboy Untamed V3.19 beta](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.19/cowboyuntamed_v3_19_Beta.apk) *Fixes Android 12 permissions bug*<br>
+***Latest release 2022-02-03***<br>
+Direct download Android: [Cowboy Untamed V3.21](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.21/cowboyuntamed_v3_21.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
-
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via:
