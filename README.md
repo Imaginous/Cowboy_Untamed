@@ -27,6 +27,10 @@ You're free to choose any amount you like. <br>
 If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.<br>
 Sometimes the link just brings you to the Cowboy main page. If this happens use the "browse in private" mode of your browser. Other option is to erase your cookies. 
 
+## Join #Untamed
+Join the **#Untamed** group in the official Cowboy app.<br>
+[Click here to join](https://cowboy.page.link/FK5UmiaF4zcpkeMy9) 
+
 ## Introduction
 *Main Features:*
 - Disable speed limit of your Cowboy bike.
