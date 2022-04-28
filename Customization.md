@@ -4,6 +4,37 @@ In this document I will try to collect special customizations I made to my Cowbo
 It won't be complete tutorials, you need to use your own skills and brains, but it will be doable.
 Also note that I own a **Cowboy V1+**, not everything is the same on all bike models.
 
+## Battery charging 'hack'
+
+### Introduction
+To keep the battery in the best shape it's commonly known to keep lithium batteries between 20%-80% charge. This specially goes for phone batteries.
+A bike battery is a bit different, it contains multiple serie and parallel connected cells. Those cell should have the same charge (theoratically).
+In normal use the cells will be quite in balance, but over time there will be a difference in charge states. There the BMS (battery management system) comes in. It levels out each individual cell (or strand). This process is needed once and a while. It is always performed at the end of each charging cycle. So it means charging to 100%... but thats not optimal.
+
+### The 'hack' / fix
+This is not an *easy* fix, but more of a workaround. In my home I have a Zigbee home automation system. Therefore I can use this system to measure the current drawn by the bike's charger and can aproxemately *tell* how much has been charged. This is because of the fact the battery will be charged at a 'constant' current up to 80%. Then it will go down logarithmic. As soons as I see the power drop below 105 watt I found out that this is about 80%. Then I will stop charging.<br><br>
+What do we need to accomplish this?
+- A power measuring switchable poweroutlet (**Zigbee**/WiFi)<br>
+I use a [Blitzwolf power plug](https://www.blitzwolfeurope.com/3840W-EU-WIFI-Smart-Socket-BlitzWolf-BW-SHP2-Wifi).
+- A Zigbee hub or interface when working with zigbee, other control software if you go the wifi route.<br>
+I use a [CC2652 based Zigbee stick](https://slae.sh/projects/cc2652/) in combination with my own software. But you could use something like [Home Assistant](https://www.home-assistant.io/).<br>
+
+If you use a WiFi module you can probably also use [Home Assistant](https://www.home-assistant.io/). For the Zigbee route there are also integrated hubs and devices like Philips HUE and Tahoma.
+
+All you have to do now is to turn off the charger when the power starts dropping. *Note:* you have to take some measurements because the power values may be (will be) different in each charger/battery combination. How to do this is completely dependend on the system you use.<br><br>
+This solution is really for tweakers. So this is not a step by step tutorial, but just a guideline how to achieve this.<br>
+**Important:** as stated earlier, you still need to balance the cells once and a while. Therefore I let my battery charge to 100% every 5th charging cycle.<br><br>
+
+### General battery advice
+This is just how I handle my battery over the last 1.5 years.
+- Keep the charge between 20%-80%, but fully charge about every 5th charging cycle to balance the cells.
+- Always leave the battery in the bike. This will keep the internal battery (for GPS and data communications) charged. Leaving this battery discharged for a longer period of time is not good for the battery.
+- Store the bike in a warm and dry place (8-30 degrees celcius).
+- Don't charge the battery when it's very cold or very warm. Bring it to room (or shed) temperature first.<br>Don't charge it directly after cycling, it has to cool down.
+- When not using the bike for a longer period charge it to 80%.<br>
+Turn off *Auto Unlock*.<br>
+Don't let it go below 20%. So recharge the battery every 1 to 1.5 months up to 80%.
+
 ## New headlight design
 About half a year ago I created a new lens/lamp cover for my Cowboy, it increased the light quite a bit. But now, when darker days are joining near, it's still not effective enough to my likings. So I developed *V2*.<br>
 *2021-11-09*: The headlight mount on the Cowboy is tilted upwards by 10 degrees (not down for some reason). This made the V2 light shine up too much. Therefore I made V2b and V2c, this is angled down at 20 degrees. Since the used lenses are 20 degrees this technically means the upper part of the light bundle goes straight ahead now. The lower part is now angled at 10 degrees down. First indoor tests look way more promissing.<br><br>
@@ -63,6 +94,7 @@ Now stick the reflector part to the PCB (note the notches - V2 only). Now clip o
 <img src="https://user-images.githubusercontent.com/68418842/139531601-15901260-c18a-434c-8b3a-62bb08eba48e.JPG" width="295"/>
 <img src="https://user-images.githubusercontent.com/68418842/139531603-1bf23dd7-93ad-410d-969a-04e1500ab2cc.JPG" width="295"/>
 </p>
+
 
 
 ## Donate
