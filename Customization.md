@@ -4,6 +4,13 @@ In this document I will try to collect special customizations I made to my Cowbo
 It won't be complete tutorials, you need to use your own skills and brains, but it will be doable.
 Also note that I own a **Cowboy V1+**, not everything is the same on all bike models.
 
+## Index
+- [Battery charging 'hack'](https://github.com/Imaginous/Cowboy_Untamed/edit/main/Customization.md#battery-charging-hack)
+- [New headlight design](https://github.com/Imaginous/Cowboy_Untamed/edit/main/Customization.md#new-headlight-design)
+
+## Donate
+If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
+
 ## Battery charging 'hack'
 
 ### Introduction
@@ -95,7 +102,3 @@ Now stick the reflector part to the PCB (note the notches - V2 only). Now clip o
 <img src="https://user-images.githubusercontent.com/68418842/139531603-1bf23dd7-93ad-410d-969a-04e1500ab2cc.JPG" width="295"/>
 </p>
 
-
-
-## Donate
-If you like the instructions, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
