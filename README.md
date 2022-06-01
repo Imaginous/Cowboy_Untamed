@@ -126,7 +126,8 @@ For more information about the **configuration** read: [Configuring Presets](htt
 
 #### Dashboard
 With this function you can switch between *Normal* and *Untamed* mode with the push of a button. Also you can adjust the field weakening value on the go.<br>
-But the **best feature** is the option to **set the maximum power output of the motor** on the fly. You can see this as a way to set the **level of support** of the bike.
+But the **best feature** is the option to **set the maximum power output of the motor** on the fly. You can see this as a way to set the **level of support** of the bike.<br>
+You'll find the dashboard in the main menu.
 <p float="left"><img src="https://user-images.githubusercontent.com/68418842/171473581-7bd3ecb0-e6fa-4ada-a0ac-918eaf4ba71f.png" alt="Screenshot dashboard" width="250"/></p>
 
 #### Auto Unlock (V1+)
