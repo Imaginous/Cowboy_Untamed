@@ -13,7 +13,8 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4
 ## Download
 ***Latest release 2022-03-22***<br>
 Direct download Android: [Cowboy Untamed V3.22](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.22/cowboyuntamed_v3_22.apk)<br>
-Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)
+Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)<br>
+Latest Beta with new **Dashboard** 2022-06-01: [Cowboy Untamed V3.50](https://github.com/Imaginous/Cowboy_Untamed/releases/tag/V3.50)
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via:
@@ -35,6 +36,7 @@ Join the **#Untamed** group in the official Cowboy app.<br>
 *Main Features:*
 - Disable speed limit of your Cowboy bike.
 - Set field weakening to increase the maximum speed.
+- [New *Dashboard* to set the level of support on the go.](https://github.com/Imaginous/Cowboy_Untamed/edit/main/README.md#dashboard)
 - Enable *Auto Unlock* on the V1+ model.
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
@@ -122,7 +124,13 @@ With this new feature (and second app icon) you can setup three presets (Slow, N
 For more information about the **configuration** read: [Configuring Presets](https://github.com/Imaginous/Cowboy_Untamed/blob/8d6e54f92d7533ade69096deab1b06cd6be3ff6f/Presets.md).
 <br>**Note:** do not use the *FLASH* button in the main app while a preset is active. This will store the preset settings in flash memory.<br><br>
 
+#### Dashboard
+With this function you can switch between *Normal* and *Untamed* mode with the push of a button. Also you can adjust the field weakening value on the go.<br>
+But the **best feature** is the option to **set the maximum power output of the motor** on the fly. You can see this as a way to set the **level of support** of the bike.
+<p float="left"><img src="https://user-images.githubusercontent.com/68418842/171473581-7bd3ecb0-e6fa-4ada-a0ac-918eaf4ba71f.png" alt="Screenshot dashboard" width="250"/></p>
+
 #### Auto Unlock (V1+)
+
 I can confirm *Auto Unlock* is atleast working up to firmware V4.8.17 (V1+).<br> 
 **Note:** after locking the bike has a grace period of a few minutes before enabling *Auto Unlock* after it's locked. Also your phone must been out of reach of the bike. For testing you can temporarely disable bleutooth.
 
