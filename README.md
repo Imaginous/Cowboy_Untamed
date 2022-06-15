@@ -11,10 +11,9 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md) or use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer.*
 
 ## Download
-***Latest release 2022-03-22***<br>
-Direct download Android: [Cowboy Untamed V3.22](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.22/cowboyuntamed_v3_22.apk)<br>
+***Latest release 2022-06-01***<br>
+Direct download Android: [Cowboy Untamed V3.51](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.51/cowboyuntamed_v3_51.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)<br>
-Latest Beta with new **Dashboard** 2022-06-01: [Cowboy Untamed V3.5x](https://github.com/Imaginous/Cowboy_Untamed/releases/tag/V3.51)
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via:
