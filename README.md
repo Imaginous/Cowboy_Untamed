@@ -10,6 +10,8 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4
 <br><br>
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md) or use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer.*
 
+**[Klik hier](https://github.com/Imaginous/Cowboy_Untamed/blob/main/LeesMij.md) voor een beknopte Nederlandse uitleg.**
+
 ## Download
 ***Latest release 2022-06-01***<br>
 Direct download Android: [Cowboy Untamed V3.51](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.51/cowboyuntamed_v3_51.apk)<br>
@@ -193,6 +195,7 @@ A fellow Cowboy was brave enough ;) to test it. It all seems to work fine. It se
 
 ## FAQ
 
+- **Is er informatie in het Nederlands?**<br>**Ja**, [klik hier](https://github.com/Imaginous/Cowboy_Untamed/blob/main/LeesMij.md) voor Nederlandse informatie.
 - **Will there be an IOS version?**<br>**No**, unfortunately I do not have (and have no intention to) an Apple developers account.<br>But you can do it **manually**, see: [IOS.md](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md).
 - Can I use another Android phone to make the settings?<br>Yes, you can use a different Android phone to make the settings and then switch back to your original phone. This can also be an iPhone. Also auto unlock should work with a V1+ and an iPhone.
 - When I download the file, nothing happens?<br>The file has been downloaded in the background. Go to the upper right menu in *Chrome* and select *Downloads*. Now select the file and install it.<br>You can also use a tool like *CX File Explorer* to goto your downloads and install it.
