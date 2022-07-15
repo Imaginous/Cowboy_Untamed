@@ -13,8 +13,8 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4
 **[Klik hier](https://github.com/Imaginous/Cowboy_Untamed/blob/main/LeesMij.md) voor een beknopte Nederlandse uitleg.**
 
 ## Download
-***Latest release 2022-06-23***<br>
-Direct download Android: [Cowboy Untamed V3.53](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.53/cowboyuntamed_v3_53.apk)<br>
+***Latest release 2022-07-15***<br>
+Direct download Android: [Cowboy Untamed V3.55](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.55/cowboyuntamed_v3_55.apk)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)<br>
 
 ## Donate
@@ -24,10 +24,12 @@ If you like the app or the IOS instructions you're free to make a small donation
 
 You're free to choose any amount you like. <br>
 
-
 ## Discount on your new Cowboy V3, V4(ST) bike
+Due to a reorganization of the discount plans at Cowboy the referral links don't work at the moment.
+<!-- 
 If you don't have a Cowbow bike yet... use this [refferal link](https://share.cowboy.com/r/michelv3) for €100 discount on your new bike.<br>
 Sometimes the link just brings you to the Cowboy main page. If this happens use the "browse in private" mode of your browser. Other option is to erase your cookies. 
+-->
 
 ## Join #Untamed
 Join the **#Untamed** group in the official Cowboy app.<br>
