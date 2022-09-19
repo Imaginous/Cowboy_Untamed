@@ -79,6 +79,7 @@ Zorg dat de fiets is gekoppeld met jouw Android toestel en wordt getoond onder d
 Ik adviseer eigenlijk om eerst de fiets te koppelen met de originele Cowboy app. Dan vervolgens onder de instellingen van de fiets de *Paring Code* op te schrijven.
 Vervolgens gooi je de fiets weg bij de bluetooth instellingen (als deze er staat) en zoek je naar nieuwe bluetooth apparaten. Voeg vervolgens de *Cowboy* opnieuw toe en gebruik de opgeschreven koppelcode. Eventueel kan je de naam nog aanpassen mocht je meerdere Cowboy fietsen gaan koppelen.
 
+#### Snelheidslimiet opheffen
 - **Sluit de originele Cowboy app volledig af.**
 - Zorg ervoor dat er geen andere telefoons of apparaten zijn verbonden met de fiets.
 - Ga vlak bij de fiets staan.
