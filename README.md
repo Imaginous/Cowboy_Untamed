@@ -21,7 +21,7 @@ NEW Pre-release: [Cowboy Untamed V3.60 + WearOS watch app](https://github.com/Im
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via:
 - [PayPal](https://www.paypal.com/donate?business=YFCL2GWHA2H5Q&no_recurring=1&item_name=If+you+like+using+the+Cowboy+Untamed+app+and+feel+like+donating+a+small+amount.+Then+don%27t+hesitate+to+do+so+%3B%29&currency_code=EUR)
-- [iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=HFJ-f2JRQBGNt4egPlNw2w) if you have a Dutch bank account
+- [iDeal](https://betaalverzoek.rabobank.nl/betaalverzoek/?id=7lmmeRsYSgmaWMNBmM2YDQ ) if you have a Dutch bank account
 
 You're free to choose any amount you like. <br>
 
