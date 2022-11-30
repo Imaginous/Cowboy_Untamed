@@ -1,6 +1,6 @@
 # Wear OS watch app
 
-You now can use you Wear OS watch to control your Cowboy bike via Untamed *(V3.60 or up)*.<br>
+You now can use you Wear OS watch to control your Cowboy bike via the [Untamed app](https://github.com/Imaginous/Cowboy_Untamed) *([V3.60 or up](https://github.com/Imaginous/Cowboy_Untamed/releases/latest))*.<br>
 Unfortunately you cannot pair your bike directly to your watch, so the phone and Untamed app are always needed.
 
 ## Donate
