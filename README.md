@@ -5,7 +5,7 @@
 #### !!! It might void your warranty
 
 # Cowboy Untamed
-An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4(ST)](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st)** bike, make it faster and other tweaks to make the bike even better.<br><br>
+An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3, [V4](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st), [V4ST](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st) bike, make it faster and other tweaks to make the bike even better.<br>You can also use presets to make it slower and conserve battery.<br>Use your wear OS watch (**Galaxy watch** 4 & 5 for example) to **control your Cowboy** through Untamed.<br><br>
 **Other cool Cowboy stuff:** [Click here for my Cowboy *hardware* customizations](https://github.com/Imaginous/Cowboy_Untamed/blob/main/Customization.md).
 <br><br>
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md) or use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer.*
@@ -14,9 +14,9 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3 or **[V4
 
 ## Download
 ***Latest release 2022-07-15***<br>
-Direct download Android: [Cowboy Untamed V3.55](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.55/cowboyuntamed_v3_55.apk)<br>
+Direct download Android: [Cowboy Untamed V3.60](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.60/cowboyuntamed_v3_60.apk)<br>
+Latest release: [Untamed phone and watch app](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)<br>
-NEW Pre-release: [Cowboy Untamed V3.60 + WearOS watch app](https://github.com/Imaginous/Cowboy_Untamed/releases/tag/V3.60)<br>
 
 ## Donate
 If you like the app or the IOS instructions you're free to make a small donation.<br>You can do this securely via:
@@ -43,7 +43,7 @@ Join the **#Untamed** group in the official Cowboy app.<br>
 - Enable *Auto Unlock* on the V1+ model.
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
-- *[Wear OS watch app](https://github.com/Imaginous/Cowboy_Untamed/blob/main/WatchApp.md)*, use your wear OS watch to start your bike, turn on lights via Untamed.
+- **[Wear OS watch app](https://github.com/Imaginous/Cowboy_Untamed/blob/main/WatchApp.md)**, use your wear OS watch to start your bike, turn on lights via Untamed.
 
 *Quick Launch Presets in V3.xx:*
 - Quickly start your bike with one of three prefered settings without saving them to flash memory.
