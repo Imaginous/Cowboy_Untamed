@@ -43,6 +43,7 @@ Join the **#Untamed** group in the official Cowboy app.<br>
 - Enable *Auto Unlock* on the V1+ model.
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
+- *Wear OS watch app*, use your wear OS watch to start your bike, turn on lights via Untamed.
 
 *Quick Launch Presets in V3.xx:*
 - Quickly start your bike with one of three prefered settings without saving them to flash memory.
@@ -132,6 +133,10 @@ With this function you can switch between *Normal* and *Untamed* mode with the p
 But the **best feature** is the option to **set the maximum power output of the motor** on the fly. You can see this as a way to set the **level of support** of the bike.<br>
 You'll find the dashboard in the main menu (version 3.50 and up).
 <p float="left"><img src="https://user-images.githubusercontent.com/68418842/171473581-7bd3ecb0-e6fa-4ada-a0ac-918eaf4ba71f.png" alt="Screenshot dashboard" width="250"/></p>
+
+#### Watch app
+With the introduction of V3.60 of Untamed you can also sideload my new watch app onto your Wear OS device. I use a Samsung Galaxy Watch 5.
+For more information go to: [How to install and configure the watch app](http://).
 
 #### Auto Unlock (V1+)
 
