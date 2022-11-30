@@ -26,7 +26,7 @@ Once you have enabled the developer options on your watch and do the following:
 Download the ADB-Tools from Google: [ADB-Tools](https://developer.android.com/studio/releases/platform-tools)
 
 - Extract the contents to a known location (C:\temp)
-- [Download the cowboyuntamed_watch_vx_xx.apk](https://github.com/Imaginous/Cowboy_Untamed/releases) and place it in the folder: C:\temp\platform-tools
+- [Download the cowboyuntamed_watch_vx_xx.apk](https://github.com/Imaginous/Cowboy_Untamed/releases/latest) and place it in the folder: C:\temp\platform-tools
 - Open a *command prompt (CLI)* as *administrator*
 - Enter: CD C:\Temp\platform-tools
 - Enter: adb connect **x.x.x.x**:5555 *(Replace x.x.x.x with the IP address noted earlier)*<br>
