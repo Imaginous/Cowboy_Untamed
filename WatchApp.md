@@ -31,7 +31,7 @@ Download the ADB-Tools from Google: [ADB-Tools](https://developer.android.com/st
 - Enter: CD C:\Temp\platform-tools
 - Enter: adb connect **x.x.x.x**:5555 *(Replace x.x.x.x with the IP address noted earlier)*<br>
 When you connect for the first time you must acknowledge that the current computer is allowed ADB access.
-- Enter: adb install cowboyuntamed_watch_v**x_xx**.apk *(Replace x_xx with the version number of the file you have downloaded)*
+- Enter: adb -s **x.x.x.x**:5555 install -r cowboyuntamed_watch_v**x_xx**.apk *(Replace x.x.x.x with the IP address noted earlier. Replace x_xx with the version number of the file you have downloaded)*
 - Enter: adb disconnect **x.x.x.x**:5555 *(Replace x.x.x.x with the IP address noted earlier)*
 - Disable ADB on your watch in the developer settings 
 
