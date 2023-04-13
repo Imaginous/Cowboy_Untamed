@@ -15,7 +15,7 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3, [V4](ht
 
 ## Download
 ***Latest release 2023-04-01***<br>
-Direct download Android: [Cowboy Untamed V3.62](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.62/cowboyuntamed_v3_62.apk)<br>
+Direct download Android: [Cowboy Untamed V3.63](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.63/cowboyuntamed_v3_63.apk)<br>
 Latest release: [Untamed phone and watch app](https://github.com/Imaginous/Cowboy_Untamed/releases/latest)<br>
 Version information: [Version overview](https://github.com/Imaginous/Cowboy_Untamed/releases)<br>
 <br>Short PDF summary: [UnlockYourCOWBOY.pdf](https://github.com/Imaginous/Cowboy_Untamed/files/10932920/UnlockYourCOWBOY.pdf) *Provided by fellow Cowboy Metin*
@@ -164,6 +164,25 @@ The way to get it working:
 
 ## Known general Cowboy issues
 There are some PCB and motor controller related issues that many Cowboys experience. Here are some workarounds in which Cowboy Untamed can help.
+
+#### Broken torque sensor
+You can use Untamed to check if your torque sensor might be faulty.<br>
+- Connect to the bike in Untamed.
+- Go to the *Expert Functions* and accept all warnings. If you accedentally press *WRITE* instead of read, just turn off your bike and start over.
+- Select **0001**: Motor Controller
+- Select **0182**: Torque Voltage Offset
+- Press **READ** and note the Value in volts (not RAW).
+- Make sure there is no pressure on the pedals, they must be in rest with nothing leaning on/against them.
+- Select **0001**: Motor Controller
+- Select **0270**: Throttle Voltage
+- Press **READ** and note the Value in volts (not RAW).
+
+If everything went well you should end up with two voltages. For my C1+ I read a *Torque Voltage Offset* of 0.80 volts. This is a defined value by Cowboy for my bike.<br>
+If I compare it with the *Throttle Voltage* of 0.79 volts on my C1+ I can conclude my sensor is fine.<br>
+The difference between the two voltages must be in range of +/- 0.02 volts. In my case between 0.78-0.82 volts.<br><br>
+If there is a larger voltage difference or the *Throttle Voltage* is way off, like 0 or sky high. There is a likely chance the torque sensor is broken.
+On the C2 and C3 check the cable connector on the right side of the bike running to the back wheel. Try replugging it. It might be bad contacts.<br>
+On the C1+, C4 and C4ST you can't access the cables (without removing parts). But it is less likely to be a loose connection on these bikes.
 
 #### The bike judders at start
 If your bike judders you may alter the 'Hall Interpolation Transitions' field of the motor controller. This field 128. Default this has a value of 1 (note: on some bikes this has been altered by Cowboy already). This means the timing of the motor will be measured after 1 full rotation of the wheel. So the motor 'understands' when to kick in. If this is not measured correctly the motor kicks in at the wrong moment and will judder. By increasing this value more rotations will be used and the value will be more accurate, so no judder.<br><br>
