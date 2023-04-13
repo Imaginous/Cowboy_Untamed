@@ -180,7 +180,13 @@ You can use Untamed to check if your torque sensor might be faulty.<br>
 If everything went well you should end up with two voltages. For my C1+ I read a *Torque Voltage Offset* of 0.80 volts. This is a defined value by Cowboy for my bike.<br>
 If I compare it with the *Throttle Voltage* of 0.79 volts on my C1+ I can conclude my sensor is fine.<br>
 The difference between the two voltages must be in range of +/- 0.02 volts. In my case between 0.78-0.82 volts.<br><br>
-If there is a larger voltage difference or the *Throttle Voltage* is way off, like 0 or sky high. There is a likely chance the torque sensor is broken.<br>
+**Expected voltages:**
+- C1+ 0.78-0.82 volt
+- C2 0.50-0.54 volt
+- C3 0.50-0.54 volt
+- C4/C4ST 0.78-0.82 volt
+
+If there is a larger voltage difference or the *Throttle Voltage* is way off, like 0 or sky high. There is a likely chance the torque sensor is broken.<br><br>
 **Important note:** It seems on some C3 bikes the *throttle offset* has been programmed with the wrong value. If you read a *throttle voltage* of 0.50-0.55 your sensor is probably okay. <br>
 On the C2 and C3 check the cable connector on the right side of the bike running to the back wheel. Try replugging it. It might be bad contacts.<br>
 On the C1+, C4 and C4ST you can't access the cables (without removing parts). But it is less likely to be a loose connection on these bikes.
