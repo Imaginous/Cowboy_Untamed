@@ -184,6 +184,11 @@ If there is a larger voltage difference or the *Throttle Voltage* is way off, li
 On the C2 and C3 check the cable connector on the right side of the bike running to the back wheel. Try replugging it. It might be bad contacts.<br>
 On the C1+, C4 and C4ST you can't access the cables (without removing parts). But it is less likely to be a loose connection on these bikes.
 
+<p float="left">
+<img src="https://user-images.githubusercontent.com/68418842/231686630-c92f27f8-8cca-4eb2-b827-074a3f3a8569.png" alt="Screenshot address 182" width="250"/>
+<img src="https://user-images.githubusercontent.com/68418842/231686652-7692612b-a8a4-4777-9d9d-8b8b0a712700.png" alt="Screenshot address 270" width="250"/>
+</p>
+
 #### The bike judders at start
 If your bike judders you may alter the 'Hall Interpolation Transitions' field of the motor controller. This field 128. Default this has a value of 1 (note: on some bikes this has been altered by Cowboy already). This means the timing of the motor will be measured after 1 full rotation of the wheel. So the motor 'understands' when to kick in. If this is not measured correctly the motor kicks in at the wrong moment and will judder. By increasing this value more rotations will be used and the value will be more accurate, so no judder.<br><br>
 You can alter this value on the *Expert Settings* page. Enter addres 128 and read the current value. Note the RAW value somewhere, this way you can always revert to this value.
