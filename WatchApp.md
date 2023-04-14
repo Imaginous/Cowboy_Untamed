@@ -1,7 +1,10 @@
 # Wear OS watch app
 
 You now can use you Wear OS watch to control your Cowboy bike via the [Untamed app](https://github.com/Imaginous/Cowboy_Untamed) *([V3.60 or up](https://github.com/Imaginous/Cowboy_Untamed/releases/latest))*.<br>
-Unfortunately you cannot pair your bike directly to your watch, so the phone and Untamed app are always needed.
+Unfortunately you cannot pair your bike directly to your watch, so the phone and Untamed app are always needed.<br>
+
+## Download
+[Untamed Watch V1.00 *(WearOS only)*](https://github.com/Imaginous/Cowboy_Untamed/releases/download/V3.61/cowboyuntamed_watch_v1_00.apk)
 
 ## Donate
 If you like the instructions and watch app, you're welcome to make a [donation](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#donate). 
@@ -11,7 +14,7 @@ If you like the instructions and watch app, you're welcome to make a [donation](
 You need to sideload the app onto your watch. 
 For this you need to enable the developer options and use two ADB commands to upload the app to your watch.
 
-#### Enabling developer options (Galaxy Watch 5)
+#### Enabling developer options (Galaxy Watch 4/5)
 Watch this YouTube video on enabling developer options: [Enable developer options](https://www.youtube.com/watch?v=i4VtRxtBLrM)
 
 Once you have enabled the developer options on your watch and do the following:
@@ -26,7 +29,7 @@ Once you have enabled the developer options on your watch and do the following:
 Download the ADB-Tools from Google: [ADB-Tools](https://developer.android.com/studio/releases/platform-tools)
 
 - Extract the contents to a known location (C:\temp)
-- [Download the cowboyuntamed_watch_vx_xx.apk](https://github.com/Imaginous/Cowboy_Untamed/releases/latest) and place it in the folder: C:\temp\platform-tools
+- [Download the cowboyuntamed_watch_vx_xx.apk](https://github.com/Imaginous/Cowboy_Untamed/edit/main/WatchApp.md#download) and place it in the folder: C:\temp\platform-tools
 - Open a *command prompt (CLI)* as *administrator*
 - Enter: CD C:\Temp\platform-tools
 - Enter: adb connect **x.x.x.x**:5555 *(Replace x.x.x.x with the IP address noted earlier)*<br>
@@ -56,4 +59,10 @@ Once loaded it will show the *Actions*  menu.
 - Slide an option button to the **right** to **enable** it.<br>Sliding *Power* to the *right* will turn *on* the bike.
 - Slide an option button to the **left** to **disable** it.<br>Sliding *Power* to the *left* will turn *off* the bike.
 - With the *...* button you can go to the main screen. Here you can select the *Presets* menu, or quit the app.
+
+#### Easy Fire Tools
+Some people are using [*Easy Fire Tools*](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2020402/https://play.google.com/store/apps/details?id=de.agondev.easyfiretools) to sideload on their watch. This tool can be used via your phone. Since I have all the development tools in place on my computer I have never tested it myself. Therefore I can only point it out you.<br>
+For more information see: [How to Sideload Apps on Your Samsung Galaxy Watch or Wear OS Smartwatch](https://www.makeuseof.com/sideload-apps-wear-os-galaxy-watch/).
+
+
 
