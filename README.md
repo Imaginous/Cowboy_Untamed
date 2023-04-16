@@ -42,7 +42,7 @@ Join the **#Untamed** group in the official Cowboy app.<br>
 *Main Features:*
 - Disable speed limit of your Cowboy bike.
 - Set field weakening to increase the maximum speed.
-- [New *Dashboard* to set the level of support on the go.](https://github.com/Imaginous/Cowboy_Untamed/edit/main/README.md#dashboard)
+- [New *Dashboard* to set the level of support on the go.](https://github.com/Imaginous/Cowboy_Untamed#dashboard)
 - Enable *Auto Unlock* on the V1+ model.
 - Use shortcuts to unlock/lock your bike, turn on/off the lights. These can also be used in combination with the original Cowboy app and with automation apps like *Tasker*.
 - *Set and forget*, just make the settings you want and start using the original Cowboy app again.
