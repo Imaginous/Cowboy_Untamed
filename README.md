@@ -5,7 +5,7 @@
 #### !!! It will void your warranty according to point 8.7 in Cowboys warranty agreement:
 *Any alteration or transformation of the product, including using a third-party application to modify or adjust motor controller settings, even on a single occasion, will result in the complete voidance of the product warranty, not only for issues caused by the third-party app but for any other issues that may arise during the warranty period.*<br><br>
 This paragraph has been added, so only legaly binding if it is in your copy of the warranty agreement you got at the time of purchase. I'm not a legal specialist, but I wonder if they can void warranty not linked to use of this kind of apps.
-#### !!! Note: 20230420 - Cowboy has officially denied warranty after use of Untamed in one case.
+#### !!! Note: 20230420 - Cowboy has officially denied warranty after use of Untamed (or Unleashed/Cowbooster) in at least one case.
 
 # Cowboy Untamed
 An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3, [V4](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st), [V4ST](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st) bike, make it faster and other tweaks to make the bike even better.<br>You can also use presets to make it slower and conserve battery.<br>Use your [wear OS watch](https://github.com/Imaginous/Cowboy_Untamed/blob/main/WatchApp.md) (**Galaxy watch** 4 & 5 for example) to **control your Cowboy** through Untamed.<br><br>
