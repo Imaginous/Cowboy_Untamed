@@ -14,15 +14,16 @@ If you like the instructions, you're welcome to make a [donation](https://github
 ## Battery charging 'hack'
 
 ### Introduction
-To keep the battery in the best shape it's commonly known to keep lithium batteries between 20%-80% charge. This specially goes for phone batteries.
-A bike battery is a bit different, it contains multiple serie and parallel connected cells. Those cell should have the same charge (theoratically).
-In normal use the cells will be quite in balance, but over time there will be a difference in charge states. There the BMS (battery management system) comes in. It levels out each individual cell (or strand). This process is needed once and a while. It is always performed at the end of each charging cycle. So it means charging to 100%... but thats not optimal.
+To keep the battery in the best shape it's commonly known to keep lithium-ion batteries between 20%-80% charge. This specially goes for phone batteries.
+A bike battery is a bit different, it contains multiple series and parallel connected cells. Those cells should have the same state of charge and voltage.(theoratically).
+In normal use the cells will be quite in balance, but over time cells will degrade differently and there will be a difference in capacity. This capacity mismatch results in cells or groups of cells in parallel draining faster. There the BMS (battery management system) comes in. It levels out each individual cell (or strand). This process is needed once and a while. It is always performed at the end of each charging cycle. So it means charging to 100%... but thats not optimal.
 
 ### The 'hack' / fix
 This is not an *easy* fix, but more of a workaround. In my home I have a Zigbee home automation system. Therefore I can use this system to measure the current drawn by the bike's charger and can aproxemately *tell* how much has been charged. This is because of the fact the battery will be charged at a 'constant' current up to 80%. Then it will go down logarithmic. As soons as I see the power drop below 105 watt I found out that this is about 80%. Then I will stop charging.<br><br>
 What do we need to accomplish this?
 - A power measuring switchable poweroutlet (**Zigbee**/WiFi)<br>
 I use a [Blitzwolf power plug](https://www.blitzwolfeurope.com/3840W-EU-WIFI-Smart-Socket-BlitzWolf-BW-SHP2-Wifi).
+You can also buy plugs [pre-flashed with Tasmota firmware](https://mediarath.de/en/collections/tasmota-gerate).
 - A Zigbee hub or interface when working with zigbee, other control software if you go the wifi route.<br>
 I use a [CC2652 based Zigbee stick](https://slae.sh/projects/cc2652/) in combination with my own software. But you could use something like [Home Assistant](https://www.home-assistant.io/).<br>
 
