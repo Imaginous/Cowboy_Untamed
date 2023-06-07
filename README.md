@@ -4,11 +4,11 @@
 #### !!! Unlocking your bike will make your bike illegal in most countries, atleast in the European Union.
 #### !!! It will void your warranty according to point 8.7 in Cowboys warranty agreement:
 *Any alteration or transformation of the product, including using a third-party application to modify or adjust motor controller settings, even on a single occasion, will result in the complete voidance of the product warranty, not only for issues caused by the third-party app but for any other issues that may arise during the warranty period.*<br>
-#### !!! Note: 20230420 - Cowboy has officially denied warranty after use of Untamed (or Unleashed/Cowbooster) in at least one case.
+#### !!! Note: 20230420 - Cowboy has officially denied warranty after use of Untamed (or Unleashed/Cowbooster). 
 
 # Cowboy Untamed
 An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3, [V4](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st), [V4ST](https://github.com/Imaginous/Cowboy_Untamed/blob/main/README.md#cowboy-4st) bike, make it faster and other tweaks to make the bike even better.<br>You can also use presets to make it slower and conserve battery.<br>Use your [wear OS watch](https://github.com/Imaginous/Cowboy_Untamed/blob/main/WatchApp.md) (**Galaxy watch** 4 & 5 for example) to **control your Cowboy** through Untamed.<br><br>
-**Untamed is still working with the latest C4/C4ST "wind" firmware.**<br><br>
+**Untamed is partially working with the latest C4/C4ST "Adaptive Power" firmware. Field weakening seems to give issues. Removing the speed limit does work.**<br><br>
 **Other cool Cowboy stuff:** [Click here for my Cowboy *hardware* customizations](https://github.com/Imaginous/Cowboy_Untamed/blob/main/Customization.md).
 <br><br>
 ***IOS information**: This app will not become available for IOS, but you can use the [IOS manual hack](https://github.com/Imaginous/Cowboy_Untamed/blob/main/IOS.md) or use [Cowboy Unleashed](https://github.com/mmmago/cowboyunleashed) made by a fellow Cowboy and programmer.*
