@@ -15,7 +15,7 @@ An **Android app to remove the speed limit** of your Cowboy V1+, V2, V3, [V4](ht
 
 **[Klik hier](https://github.com/Imaginous/Cowboy_Untamed/blob/main/LeesMij.md) voor een beknopte Nederlandse uitleg.**
 
-## Warning: Adaptive Power 2.0 (v4.12.0)
+## Warning: Adaptive Power 2.0 (v4.21.0)
 It seems *Adaptive Power 2.0* resets / overwrites the motor controller settings.
 Upgrading to this firmware may render the hack unusable.<br>
 Untamed is not compatible with the latest firmware. 
